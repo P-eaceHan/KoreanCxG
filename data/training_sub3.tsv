@@ -1,0 +1,1832 @@
+#anno-id:985
+#text:그들의 성공의 긍정적인 결과를 느끼는 나머지의 우리들도 시간이 없다.
+0	그들의	_	_	O
+1	성공의	_	_	O
+2	긍정적인	_	_	O
+3	결과를	결과.n	Causation	O
+4	느끼는	_	_	O
+5	나머지의	_	_	O
+6	우리들도	_	_	O
+7	시간이	_	_	O
+8	없다.	_	_	O
+
+#anno-id:994
+#text:당신과 나는 함께 몇 가지 중요한 일을 하였다.
+0	당신과	_	_	B-Agent
+1	나는	_	_	I-Agent
+2	함께	_	_	O
+3	몇	_	_	O
+4	가지	_	_	O
+5	중요한	_	_	O
+6	일을	일.n	Work	O
+7	하였다.	_	_	O
+
+#anno-id:1008
+#text:사람들이 일을 계속하지 못하게 하는 많은 장벽이 있습니다 : 신체적 그리고 정신적 장애, 복지 의존하는 내력과 교육이나 자존심의 결여.
+0	사람들이	사람.n	People	O
+1	일을	_	_	O
+2	계속하지	_	_	O
+3	못하게	_	_	O
+4	하는	_	_	O
+5	많은	_	_	O
+6	장벽이	_	_	O
+7	있습니다	_	_	O
+8	:	_	_	O
+9	신체적	_	_	O
+10	그리고	_	_	O
+11	정신적	_	_	O
+12	장애,	_	_	O
+13	복지	_	_	O
+14	의존하는	_	_	O
+15	내력과	_	_	O
+16	교육이나	_	_	O
+17	자존심의	_	_	O
+18	결여.	_	_	O
+
+#anno-id:1009
+#text:사람들이 일을 계속하지 못하게 하는 많은 장벽이 있습니다 : 신체적 그리고 정신적 장애, 복지 의존하는 내력과 교육이나 자존심의 결여.
+0	사람들이	_	_	O
+1	일을	_	_	O
+2	계속하지	_	_	O
+3	못하게	_	_	O
+4	하는	_	_	O
+5	많은	_	_	O
+6	장벽이	_	_	O
+7	있습니다	_	_	O
+8	:	_	_	O
+9	신체적	_	_	O
+10	그리고	_	_	O
+11	정신적	_	_	O
+12	장애,	_	_	O
+13	복지	_	_	O
+14	의존하는	_	_	O
+15	내력과	_	_	O
+16	교육이나	_	_	B-Possession
+17	자존심의	_	_	I-Possession
+18	결여.	결여.n	Possession	O
+
+#anno-id:1017
+#text:우리는 사람들이 복지혜택에서 벗어나는 것을 가능하게 하는 일자리를 위해 훈련하고 찾도록 돕는다.
+0	우리는	_	_	B-Helper
+1	사람들이	_	_	B-Benefited_party
+2	복지혜택에서	_	_	B-Goal
+3	벗어나는	_	_	I-Goal
+4	것을	_	_	I-Goal
+5	가능하게	_	_	I-Goal
+6	하는	_	_	I-Goal
+7	일자리를	_	_	I-Goal
+8	위해	_	_	I-Goal
+9	훈련하고	_	_	I-Goal
+10	찾도록	_	_	I-Goal
+11	돕는다.	돕다.v	Assistance	O
+
+#anno-id:1025
+#text:복지 개혁에 대한 논란이 바다의 폭풍처럼 더해지고 있는 동안, 일자리를 필요로 하는 사람들은 온갖 고생을 하고 있다.
+0	복지	_	_	B-Landmark_occasion
+1	개혁에	_	_	I-Landmark_occasion
+2	대한	_	_	I-Landmark_occasion
+3	논란이	_	_	I-Landmark_occasion
+4	바다의	_	_	I-Landmark_occasion
+5	폭풍처럼	_	_	I-Landmark_occasion
+6	더해지고	_	_	I-Landmark_occasion
+7	있는	_	_	I-Landmark_occasion
+8	동안,	동안.n	Relative_time	O
+9	일자리를	_	_	B-Focal_occasion
+10	필요로	_	_	I-Focal_occasion
+11	하는	_	_	I-Focal_occasion
+12	사람들은	_	_	I-Focal_occasion
+13	온갖	_	_	I-Focal_occasion
+14	고생을	_	_	I-Focal_occasion
+15	하고	_	_	I-Focal_occasion
+16	있다.	_	_	I-Focal_occasion
+
+#anno-id:1031
+#text:오늘 당신이 Goodwill에 할 수 있는 가장 큰 기부를 해 주시기 바랍니다.
+0	오늘	_	_	O
+1	당신이	_	_	O
+2	Goodwill에	_	_	O
+3	할	_	_	O
+4	수	_	_	O
+5	있는	_	_	O
+6	가장	_	_	B-Depictive
+7	큰	_	_	I-Depictive
+8	기부를	기부.n	Giving	O
+9	해	_	_	O
+10	주시기	_	_	O
+11	바랍니다.	_	_	O
+
+#anno-id:1039
+#text:그가 자기 부인과 화해할 수 없고 결국 길거리로 나오게 되었을 때 현실이 쳤다.
+0	그가	_	_	O
+1	자기	_	_	O
+2	부인과	_	_	O
+3	화해할	_	_	O
+4	수	_	_	O
+5	없고	_	_	O
+6	결국	_	_	O
+7	길거리로	_	_	O
+8	나오게	_	_	O
+9	되었을	_	_	O
+10	때	_	_	O
+11	현실이	_	_	B-Impactor
+12	쳤다.	치다.v	Impact	O
+
+#anno-id:1052
+#text:실업 상태이고, 무주택자이고 그리고 전과자인 Jerry는 이제는 자식 양육비 지급을 하지 못해 다시 감옥으로 돌아가게 되었다.
+0	실업	_	_	O
+1	상태이고,	_	_	O
+2	무주택자이고	_	_	O
+3	그리고	_	_	O
+4	전과자인	_	_	O
+5	Jerry는	_	_	B-Trajector_event
+6	이제는	이제.n	Temporal_collocation	O
+7	자식	_	_	O
+8	양육비	_	_	O
+9	지급을	_	_	O
+10	하지	_	_	O
+11	못해	_	_	O
+12	다시	_	_	O
+13	감옥으로	_	_	B-Trajector_event
+14	돌아가게	_	_	I-Trajector_event
+15	되었다.	_	_	I-Trajector_event
+
+#anno-id:1057
+#text:중부 인디애나에서 몇 년간 최저 수준의 실업률에도 불구하고, 많은 사람들은 여전히 의미있는 일자리를 찾는데 힘든 시간을 보내고 있다.
+0	중부	_	_	B-Place
+1	인디애나에서	_	_	I-Place
+2	몇	_	_	B-Value
+3	년간	_	_	I-Value
+4	최저	_	_	I-Value
+5	수준의	_	_	I-Value
+6	실업률에도	실업률.n	Unemployment_rate	O
+7	불구하고,	_	_	O
+8	많은	_	_	O
+9	사람들은	_	_	O
+10	여전히	_	_	O
+11	의미있는	_	_	O
+12	일자리를	_	_	O
+13	찾는데	_	_	O
+14	힘든	_	_	O
+15	시간을	_	_	O
+16	보내고	_	_	O
+17	있다.	_	_	O
+
+#anno-id:1063
+#text:1999년에 Goodwill이 봉사한 42,000명 이상 가운데 이들 중 5,000명 이상은 일자리를 찾고 그것을 유지하는데 복합적인 장애를 가지고 있다.
+0	1999년에	_	_	O
+1	Goodwill이	_	_	O
+2	봉사한	_	_	O
+3	42,000명	_	_	O
+4	이상	_	_	O
+5	가운데	_	_	O
+6	이들	_	_	B-Owner
+7	중	_	_	I-Owner
+8	5,000명	_	_	I-Owner
+9	이상은	_	_	I-Owner
+10	일자리를	_	_	B-Possession
+11	찾고	_	_	I-Possession
+12	그것을	_	_	I-Possession
+13	유지하는데	_	_	I-Possession
+14	복합적인	_	_	I-Possession
+15	장애를	_	_	I-Possession
+16	가지고	가지다.v	Possession	O
+17	있다.	_	_	O
+
+#anno-id:1065
+#text:1999년에 Goodwill이 봉사한 42,000명 이상 가운데 이들 중 5,000명 이상은 일자리를 찾고 그것을 유지하는데 복합적인 장애를 가지고 있다.
+0	1999년에	_	_	O
+1	Goodwill이	_	_	O
+2	봉사한	_	_	O
+3	42,000명	_	_	O
+4	이상	_	_	O
+5	가운데	_	_	O
+6	이들	_	_	B-Group
+7	중	중.n	Partitive	O
+8	5,000명	_	_	B-Subset
+9	이상은	_	_	I-Subset
+10	일자리를	_	_	O
+11	찾고	_	_	O
+12	그것을	_	_	O
+13	유지하는데	_	_	O
+14	복합적인	_	_	O
+15	장애를	_	_	O
+16	가지고	_	_	O
+17	있다.	_	_	O
+
+#anno-id:1071
+#text:그러나 Goodwill은 Jerry와 같이 극복해야 하는 수많은 장애물을 가진 사람들에게도 희망을 준다.
+0	그러나	_	_	O
+1	Goodwill은	_	_	O
+2	Jerry와	_	_	O
+3	같이	_	_	O
+4	극복해야	_	_	B-Descriptor
+5	하는	_	_	I-Descriptor
+6	수많은	_	_	I-Descriptor
+7	장애물을	_	_	I-Descriptor
+8	가진	_	_	I-Descriptor
+9	사람들에게도	사람.n	People	O
+10	희망을	_	_	O
+11	준다.	_	_	O
+
+#anno-id:1072
+#text:그가 Goodwill을 필요로 하는 한 Goodwill은 계속해서 도울 것이다.
+0	그가	_	_	O
+1	Goodwill을	_	_	O
+2	필요로	_	_	O
+3	하는	_	_	O
+4	한	_	_	O
+5	Goodwill은	_	_	B-Agent
+6	계속해서	계속하다.v	Activity_ongoing	O
+7	도울	_	_	B-Activity
+8	것이다.	_	_	O
+
+#anno-id:1075
+#text:Goodwill에 대한 당신의 지원은 중부 인디애나에서 봉사하기 가장 어려운 사람들이 의미있는 일자리를 찾도록 돕기 위해 직업 훈련과 취업 알선 서비스를 제공할 것이다.
+0	Goodwill에	_	_	B-Supplier
+1	대한	_	_	I-Supplier
+2	당신의	_	_	I-Supplier
+3	지원은	_	_	I-Supplier
+4	중부	_	_	B-Theme
+5	인디애나에서	_	_	I-Theme
+6	봉사하기	_	_	I-Theme
+7	가장	_	_	I-Theme
+8	어려운	_	_	I-Theme
+9	사람들이	_	_	I-Theme
+10	의미있는	_	_	I-Theme
+11	일자리를	_	_	I-Theme
+12	찾도록	_	_	I-Theme
+13	돕기	_	_	I-Theme
+14	위해	_	_	I-Theme
+15	직업	_	_	I-Theme
+16	훈련과	_	_	I-Theme
+17	취업	_	_	I-Theme
+18	알선	_	_	I-Theme
+19	서비스를	_	_	I-Theme
+20	제공할	제공하다.v	Supply	O
+21	것이다.	_	_	O
+
+#anno-id:1083
+#text:Baby Jessica 처럼, 양부모와 친부모 사이에서 힘들게 살아가고 있는 어린 아이들
+0	Baby	_	_	O
+1	Jessica	_	_	O
+2	처럼,	_	_	O
+3	양부모와	_	_	B-Sides
+4	친부모	_	_	I-Sides
+5	사이에서	_	_	I-Sides
+6	힘들게	힘들다.a	Hostile_encounter	O
+7	살아가고	_	_	O
+8	있는	_	_	O
+9	어린	_	_	O
+10	아이들	_	_	O
+
+#anno-id:1100
+#text:오늘날 우리는 감정적, 신체적, 심리적 그리고 성추행 같은 많은 문제가 있는 아이들과 가족을 돌본다.
+0	오늘날	_	_	O
+1	우리는	_	_	O
+2	감정적,	_	_	B-Descriptor
+3	신체적,	_	_	I-Descriptor
+4	심리적	_	_	I-Descriptor
+5	그리고	_	_	I-Descriptor
+6	성추행	_	_	I-Descriptor
+7	같은	_	_	I-Descriptor
+8	많은	_	_	I-Descriptor
+9	문제가	_	_	I-Descriptor
+10	있는	_	_	I-Descriptor
+11	아이들과	아이.n	People_by_age	O
+12	가족을	_	_	O
+13	돌본다.	_	_	O
+
+#anno-id:1103
+#text:일부는 치료를 통해 재결합의 희망이 있는 가족으로부터 나온다.
+0	일부는	_	_	O
+1	치료를	_	_	O
+2	통해	_	_	O
+3	재결합의	_	_	B-Entity
+4	희망이	_	_	I-Entity
+5	있는	있다.a	Existence	O
+6	가족으로부터	_	_	O
+7	나온다.	_	_	O
+
+#anno-id:1108
+#text:1994년에 Pleasant Run은 346명의 아이들과 125 가정을 돌보았다.
+0	1994년에	-에.j	Temporal_collocation	B-Landmark_period
+1	Pleasant	_	_	B-Trajector_event
+2	Run은	_	_	I-Trajector_event
+3	346명의	_	_	I-Trajector_event
+4	아이들과	_	_	I-Trajector_event
+5	125	_	_	I-Trajector_event
+6	가정을	_	_	I-Trajector_event
+7	돌보았다.	_	_	I-Trajector_event
+
+#anno-id:1112
+#text:1995년 에 우리는 850명의 아이들과 340 가족 이상을 돌볼 것이다.
+0	1995년	_	_	B-Landmark_period
+1	에	에.j	Temporal_collocation	I-Landmark_period
+2	우리는	_	_	B-Trajector_event
+3	850명의	_	_	I-Trajector_event
+4	아이들과	_	_	I-Trajector_event
+5	340	_	_	I-Trajector_event
+6	가족	_	_	I-Trajector_event
+7	이상을	_	_	I-Trajector_event
+8	돌볼	_	_	I-Trajector_event
+9	것이다.	_	_	I-Trajector_event
+
+#anno-id:1114
+#text:1996년에는 이 숫자는 3배가 될 것이다.
+0	1996년에는	년.n	Temporal_collocation	B-Landmark_period
+1	이	_	_	B-Trajector_event
+2	숫자는	_	_	I-Trajector_event
+3	3배가	_	_	I-Trajector_event
+4	될	_	_	I-Trajector_event
+5	것이다.	_	_	I-Trajector_event
+
+#anno-id:1119
+#text:Pleasant and Run이 학대 받고 방치된 아이들과 그들의 가족을 계속 돌보도록 하기 위해, 우리는 여러분의 지원을 필요로 한다.
+0	Pleasant	_	_	O
+1	and	_	_	O
+2	Run이	_	_	O
+3	학대	학대_받다.v	Abusing	O
+4	받고	학대_받다.v	Abusing	O
+5	방치된	_	_	O
+6	아이들과	_	_	B-Victim
+7	그들의	_	_	I-Victim
+8	가족을	_	_	I-Victim
+9	계속	_	_	O
+10	돌보도록	_	_	O
+11	하기	_	_	O
+12	위해,	_	_	O
+13	우리는	_	_	O
+14	여러분의	_	_	O
+15	지원을	_	_	O
+16	필요로	_	_	O
+17	한다.	_	_	O
+
+#anno-id:1126
+#text:거의 모든 과제는 다른 방식으로 하나의 도전이고 그것은 결코 더 쉬울 것으로 보이지 않는다.
+0	거의	_	_	O
+1	모든	_	_	O
+2	과제는	_	_	O
+3	다른	_	_	O
+4	방식으로	_	_	O
+5	하나의	_	_	O
+6	도전이고	_	_	O
+7	그것은	_	_	B-Activity
+8	결코	_	_	O
+9	더	더_쉽다.a	Difficulty	O
+10	쉬울	더_쉽다.a	Difficulty	O
+11	것으로	_	_	O
+12	보이지	_	_	O
+13	않는다.	_	_	O
+
+#anno-id:1128
+#text:나는 내가 때때로 이야기의 반 밖에 얻지 못하는 것처럼 종종 느낌을 받아 일반적으로 내가 언제나 필요로 하는 것보다 훨씬 더 많은 엄청난 양의 보도를 하곤 한다.
+0	나는	_	_	O
+1	내가	_	_	O
+2	때때로	_	_	O
+3	이야기의	_	_	O
+4	반	_	_	O
+5	밖에	_	_	O
+6	얻지	_	_	O
+7	못하는	_	_	O
+8	것처럼	_	_	O
+9	종종	_	_	O
+10	느낌을	_	_	O
+11	받아	_	_	O
+12	일반적으로	_	_	O
+13	내가	_	_	O
+14	언제나	_	_	O
+15	필요로	_	_	O
+16	하는	_	_	O
+17	것보다	_	_	O
+18	훨씬	_	_	O
+19	더	_	_	O
+20	많은	_	_	O
+21	엄청난	_	_	B-Q_prop
+22	양의	양.n	Quantity	O
+23	보도를	_	_	B-Mass
+24	하곤	_	_	O
+25	한다.	_	_	O
+
+#anno-id:1136
+#text:우리가 이야기에 결코 더하지 않는 우리의 보도에서 우리 모두가 날마다 수집하는 모든 좋은 자료를 생각하라.
+0	우리가	_	_	O
+1	이야기에	_	_	O
+2	결코	_	_	O
+3	더하지	_	_	O
+4	않는	_	_	O
+5	우리의	_	_	O
+6	보도에서	_	_	O
+7	우리	_	_	O
+8	모두가	_	_	O
+9	날마다	_	_	O
+10	수집하는	_	_	O
+11	모든	_	_	O
+12	좋은	좋다.a	Desirability	O
+13	자료를	_	_	B-Evaluee
+14	생각하라.	_	_	O
+
+#anno-id:1138
+#text:우리가 이야기에 결코 더하지 않는 우리의 보도에서 우리 모두가 날마다 수집하는 모든 좋은 자료를 생각하라.
+0	우리가	_	_	B-Topic
+1	이야기에	_	_	I-Topic
+2	결코	_	_	I-Topic
+3	더하지	_	_	I-Topic
+4	않는	_	_	I-Topic
+5	우리의	_	_	I-Topic
+6	보도에서	_	_	I-Topic
+7	우리	_	_	I-Topic
+8	모두가	_	_	I-Topic
+9	날마다	_	_	I-Topic
+10	수집하는	_	_	I-Topic
+11	모든	_	_	I-Topic
+12	좋은	_	_	I-Topic
+13	자료를	_	_	I-Topic
+14	생각하라.	생각하다.v	Cogitation	O
+
+#anno-id:1139
+#text:대부분 기자들은 이런 이야기들을 일반 대중과 공유하기 보다는 서로서로 그리고 그들의 정보 원천과 이야기한다.
+0	대부분	_	_	O
+1	기자들은	_	_	B-Speaker
+2	이런	_	_	B-Message
+3	이야기들을	_	_	I-Message
+4	일반	_	_	O
+5	대중과	_	_	O
+6	공유하기	_	_	O
+7	보다는	_	_	O
+8	서로서로	_	_	B-Addressee
+9	그리고	_	_	I-Addressee
+10	그들의	_	_	I-Addressee
+11	정보	_	_	I-Addressee
+12	원천과	_	_	I-Addressee
+13	이야기한다.	이야기하다.v	Statement	O
+
+#anno-id:1142
+#text:나는 종종 이 시대에 관한 정말 위대한 소설이 언제쯤 쓰여질까 궁금하다 ( 아마도 그것은 너무 근접하기 때문에 수십년 후 ).
+0	나는	_	_	O
+1	종종	_	_	O
+2	이	_	_	B-Text
+3	시대에	_	_	I-Text
+4	관한	_	_	I-Text
+5	정말	_	_	I-Text
+6	위대한	_	_	I-Text
+7	소설이	_	_	I-Text
+8	언제쯤	_	_	O
+9	쓰여질까	쓰이다.v	Text_creation	O
+10	궁금하다	_	_	O
+11	(	_	_	O
+12	아마도	_	_	O
+13	그것은	_	_	O
+14	너무	_	_	O
+15	근접하기	_	_	O
+16	때문에	_	_	O
+17	수십년	_	_	O
+18	후	_	_	O
+19	).	_	_	O
+
+#anno-id:1145
+#text:나는 종종 이 시대에 관한 정말 위대한 소설이 언제쯤 쓰여질까 궁금하다 ( 아마도 그것은 너무 근접하기 때문에 수십년 후 ).
+0	나는	_	_	O
+1	종종	_	_	O
+2	이	_	_	O
+3	시대에	_	_	O
+4	관한	_	_	O
+5	정말	_	_	B-Degree
+6	위대한	위대하다.a	Desirability	O
+7	소설이	_	_	B-Evaluee
+8	언제쯤	_	_	O
+9	쓰여질까	_	_	O
+10	궁금하다	_	_	O
+11	(	_	_	O
+12	아마도	_	_	O
+13	그것은	_	_	O
+14	너무	_	_	O
+15	근접하기	_	_	O
+16	때문에	_	_	O
+17	수십년	_	_	O
+18	후	_	_	O
+19	).	_	_	O
+
+#anno-id:1162
+#text:AOL은 그것이 여기에 설립되었다면 결코 존재하지 않았을 것이라고 나는 확신하는데, 그 이유는 그곳의 종업원들이 디지털 지식층에 의해 애매하게 조롱당했을 것이기 때문이다.
+0	AOL은	_	_	O
+1	그것이	_	_	B-Created_entity
+2	여기에	_	_	B-Place
+3	설립되었다면	설립되다.v	Intentionally_create	O
+4	결코	_	_	O
+5	존재하지	_	_	O
+6	않았을	_	_	O
+7	것이라고	_	_	O
+8	나는	_	_	O
+9	확신하는데,	_	_	O
+10	그	_	_	O
+11	이유는	_	_	O
+12	그곳의	_	_	O
+13	종업원들이	_	_	O
+14	디지털	_	_	O
+15	지식층에	_	_	O
+16	의해	_	_	O
+17	애매하게	_	_	O
+18	조롱당했을	_	_	O
+19	것이기	_	_	O
+20	때문이다.	_	_	O
+
+#anno-id:1164
+#text:D.C. 지역의 외곽에 있어서, 그들은 거의 모든 정부지향의 계약자들 옆에서 분명히 흥미진진하게 보였다.
+0	D.C.	_	_	B-Name
+1	지역의	지역.n	Locale	O
+2	외곽에	_	_	O
+3	있어서,	_	_	O
+4	그들은	_	_	O
+5	거의	_	_	O
+6	모든	_	_	O
+7	정부지향의	_	_	O
+8	계약자들	_	_	O
+9	옆에서	_	_	O
+10	분명히	_	_	O
+11	흥미진진하게	_	_	O
+12	보였다.	_	_	O
+
+#anno-id:1167
+#text:그것은 지리가 운명을 뜻하고, 아직도 위치, 위치, 위치인지 나는 궁금하다.
+0	그것은	_	_	O
+1	지리가	_	_	O
+2	운명을	_	_	O
+3	뜻하고,	_	_	O
+4	아직도	_	_	O
+5	위치,	위치.n	Locale	O
+6	위치,	_	_	O
+7	위치인지	_	_	O
+8	나는	_	_	O
+9	궁금하다.	_	_	O
+
+#anno-id:1170
+#text:그것은 지리가 운명을 뜻하고, 아직도 위치, 위치, 위치인지 나는 궁금하다.
+0	그것은	_	_	B-Support
+1	지리가	_	_	B-Proposition
+2	운명을	_	_	I-Proposition
+3	뜻하고,	뜻하다.v	Evidence	I-Proposition
+4	아직도	_	_	I-Proposition
+5	위치,	_	_	I-Proposition
+6	위치,	_	_	I-Proposition
+7	위치인지	_	_	I-Proposition
+8	나는	_	_	O
+9	궁금하다.	_	_	O
+
+#anno-id:1178
+#text:그것이 어디에 이를 것인지 분명하지 않지만, 힘의 균형이 다시 이동한다는 것은 분명하기 때문에 판사가 무엇을 하는가는 거의 중요하지 않다고 나는 생각한다.
+0	그것이	_	_	O
+1	어디에	_	_	O
+2	이를	_	_	O
+3	것인지	_	_	O
+4	분명하지	_	_	O
+5	않지만,	_	_	O
+6	힘의	_	_	B-Attribute
+7	균형이	_	_	I-Attribute
+8	다시	_	_	B-Particular_iteration
+9	이동한다는	이동하다.v	Change_position_on_a_scale	O
+10	것은	_	_	O
+11	분명하기	_	_	O
+12	때문에	_	_	O
+13	판사가	_	_	O
+14	무엇을	_	_	O
+15	하는가는	_	_	O
+16	거의	_	_	O
+17	중요하지	_	_	O
+18	않다고	_	_	O
+19	나는	_	_	O
+20	생각한다.	_	_	O
+
+#anno-id:1179
+#text:그것이 어디에 이를 것인지 분명하지 않지만, 힘의 균형이 다시 이동한다는 것은 분명하기 때문에 판사가 무엇을 하는가는 거의 중요하지 않다고 나는 생각한다.
+0	그것이	_	_	O
+1	어디에	_	_	O
+2	이를	_	_	O
+3	것인지	_	_	O
+4	분명하지	_	_	O
+5	않지만,	_	_	O
+6	힘의	_	_	B-Cause
+7	균형이	_	_	I-Cause
+8	다시	_	_	I-Cause
+9	이동한다는	_	_	I-Cause
+10	것은	_	_	I-Cause
+11	분명하기	_	_	I-Cause
+12	때문에	때문.n	Causation	O
+13	판사가	_	_	B-Effect
+14	무엇을	_	_	I-Effect
+15	하는가는	_	_	I-Effect
+16	거의	_	_	I-Effect
+17	중요하지	_	_	I-Effect
+18	않다고	_	_	I-Effect
+19	나는	_	_	I-Effect
+20	생각한다.	_	_	I-Effect
+
+#anno-id:1180
+#text:그것이 어디에 이를 것인지 분명하지 않지만, 힘의 균형이 다시 이동한다는 것은 분명하기 때문에 판사가 무엇을 하는가는 거의 중요하지 않다고 나는 생각한다.
+0	그것이	_	_	O
+1	어디에	_	_	O
+2	이를	_	_	O
+3	것인지	_	_	O
+4	분명하지	_	_	O
+5	않지만,	_	_	O
+6	힘의	_	_	B-Phenomenon
+7	균형이	_	_	I-Phenomenon
+8	다시	_	_	I-Phenomenon
+9	이동한다는	_	_	I-Phenomenon
+10	것은	_	_	I-Phenomenon
+11	분명하기	분명하다.a	Obviousness	O
+12	때문에	_	_	O
+13	판사가	_	_	O
+14	무엇을	_	_	O
+15	하는가는	_	_	O
+16	거의	_	_	O
+17	중요하지	_	_	O
+18	않다고	_	_	O
+19	나는	_	_	O
+20	생각한다.	_	_	O
+
+#anno-id:1190
+#text:그 믿기 힘든 제국이 세계를 지배하였고 그 당시 살던 사람들에게는 누군가가 그 제국의 인류 지배를 푸는 것이 가능한 것처럼 보이지 않았을 것이라고 나는 생각한다.
+0	그	_	_	B-Agent
+1	믿기	_	_	I-Agent
+2	힘든	_	_	I-Agent
+3	제국이	_	_	I-Agent
+4	세계를	_	_	B-Situation
+5	지배하였고	지배하다.v	Dominate_situation	O
+6	그	_	_	O
+7	당시	_	_	O
+8	살던	_	_	O
+9	사람들에게는	_	_	O
+10	누군가가	_	_	O
+11	그	_	_	O
+12	제국의	_	_	O
+13	인류	_	_	O
+14	지배를	_	_	O
+15	푸는	_	_	O
+16	것이	_	_	O
+17	가능한	_	_	O
+18	것처럼	_	_	O
+19	보이지	_	_	O
+20	않았을	_	_	O
+21	것이라고	_	_	O
+22	나는	_	_	O
+23	생각한다.	_	_	O
+
+#anno-id:1191
+#text:그 믿기 힘든 제국이 세계를 지배하였고 그 당시 살던 사람들에게는 누군가가 그 제국의 인류 지배를 푸는 것이 가능한 것처럼 보이지 않았을 것이라고 나는 생각한다.
+0	그	_	_	O
+1	믿기	_	_	O
+2	힘든	_	_	O
+3	제국이	_	_	O
+4	세계를	_	_	O
+5	지배하였고	_	_	O
+6	그	_	_	B-Time
+7	당시	_	_	I-Time
+8	살던	살다.v	Residence	O
+9	사람들에게는	_	_	B-Resident
+10	누군가가	_	_	O
+11	그	_	_	O
+12	제국의	_	_	O
+13	인류	_	_	O
+14	지배를	_	_	O
+15	푸는	_	_	O
+16	것이	_	_	O
+17	가능한	_	_	O
+18	것처럼	_	_	O
+19	보이지	_	_	O
+20	않았을	_	_	O
+21	것이라고	_	_	O
+22	나는	_	_	O
+23	생각한다.	_	_	O
+
+#anno-id:1194
+#text:아마도 당신은 이 모든 것이 어디로 가고 있는지 서둘러 예측할 수 있을 것이다.
+0	아마도	_	_	O
+1	당신은	_	_	B-Entity
+2	이	_	_	B-Event
+3	모든	_	_	I-Event
+4	것이	_	_	I-Event
+5	어디로	_	_	I-Event
+6	가고	_	_	I-Event
+7	있는지	_	_	I-Event
+8	서둘러	_	_	I-Event
+9	예측할	_	_	I-Event
+10	수	수_있다.a	Capability	O
+11	있을	수_있다.a	Capability	O
+12	것이다.	_	_	O
+
+#anno-id:1199
+#text:그들의 호기심은 공해를 건너고 이들 섬에 도착할만큼 충분히 튼튼한 선박을 건조하게 하였고, 지중해 항해의 오랜 유산을 시작하게 하였다.
+0	그들의	_	_	O
+1	호기심은	_	_	O
+2	공해를	_	_	B-Descriptor
+3	건너고	_	_	I-Descriptor
+4	이들	_	_	I-Descriptor
+5	섬에	_	_	I-Descriptor
+6	도착할만큼	_	_	I-Descriptor
+7	충분히	_	_	I-Descriptor
+8	튼튼한	_	_	I-Descriptor
+9	선박을	선박.n	Vehicle	O
+10	건조하게	_	_	O
+11	하였고,	_	_	O
+12	지중해	_	_	O
+13	항해의	_	_	O
+14	오랜	_	_	O
+15	유산을	_	_	O
+16	시작하게	_	_	O
+17	하였다.	_	_	O
+
+#anno-id:1210
+#text:그들은 결국 섬에 도착하여 에게 해의 최단 북쪽 부분의 섬들에 식민지를 건설하였다.
+0	그들은	_	_	B-Theme
+1	결국	_	_	B-Time
+2	섬에	_	_	B-Goal
+3	도착하여	도착하다.v	Arriving	O
+4	에게	_	_	O
+5	해의	_	_	O
+6	최단	_	_	O
+7	북쪽	_	_	O
+8	부분의	_	_	O
+9	섬들에	_	_	O
+10	식민지를	_	_	O
+11	건설하였다.	_	_	O
+
+#anno-id:1226
+#text:주요 변화는 일상적인 과업과 틀이 아닌, 정치적 세력 기반에 있었고, 이는 정기적으로 바뀌고 반드시 전 기간 동안 죽 평화롭게 바뀌지는 않았다.
+0	주요	_	_	O
+1	변화는	_	_	O
+2	일상적인	_	_	O
+3	과업과	_	_	O
+4	틀이	_	_	O
+5	아닌,	_	_	O
+6	정치적	_	_	B-Entity
+7	세력	_	_	I-Entity
+8	기반에	_	_	I-Entity
+9	있었고,	_	_	O
+10	이는	_	_	O
+11	정기적으로	_	_	B-Frequency
+12	바뀌고	_	_	O
+13	반드시	_	_	O
+14	전	_	_	B-Time
+15	기간	_	_	I-Time
+16	동안	_	_	I-Time
+17	죽	_	_	O
+18	평화롭게	_	_	B-Manner
+19	바뀌지는	바뀌다.v	Undergo_change	I-Manner
+20	않았다.	_	_	I-Manner
+
+#anno-id:1228
+#text:기원 전 3500년 경, Cydlades 섬에서 수준 높은 문명이 발달하였다.
+0	기원	_	_	B-Time
+1	전	_	_	I-Time
+2	3500년	_	_	I-Time
+3	경,	_	_	I-Time
+4	Cydlades	_	_	B-Place
+5	섬에서	_	_	I-Place
+6	수준	_	_	B-Entity
+7	높은	_	_	I-Entity
+8	문명이	_	_	I-Entity
+9	발달하였다.	발달하다.v	Coming_to_be	O
+
+#anno-id:1230
+#text:그 시대의 독특하고 조각된 대리석 형상이 지금도 기념품으로 많은 양이 재생되고 있다.
+0	그	_	_	B-Entity
+1	시대의	_	_	I-Entity
+2	독특하고	독특하다.a	Distinctiveness	O
+3	조각된	_	_	B-Feature
+4	대리석	_	_	I-Feature
+5	형상이	_	_	I-Feature
+6	지금도	_	_	O
+7	기념품으로	_	_	O
+8	많은	_	_	O
+9	양이	_	_	O
+10	재생되고	_	_	O
+11	있다.	_	_	O
+
+#anno-id:1232
+#text:그 시대의 독특하고 조각된 대리석 형상이 지금도 기념품으로 많은 양이 재생되고 있다.
+0	그	_	_	B-Original
+1	시대의	_	_	I-Original
+2	독특하고	_	_	I-Original
+3	조각된	_	_	I-Original
+4	대리석	_	_	I-Original
+5	형상이	_	_	I-Original
+6	지금도	_	_	B-Time
+7	기념품으로	_	_	B-Characterization
+8	많은	_	_	B-Degree
+9	양이	_	_	I-Degree
+10	재생되고	재생되다.v	Duplication	O
+11	있다.	_	_	O
+
+#anno-id:1233
+#text:가장 최초의 예들 중 하나가 Paros에 있는 박물관에 있지만, 당신은 Cyclades 전체의 고고학 박물관들에서 원래의 본보기들을 발견할 것이다.
+0	가장	_	_	O
+1	최초의	_	_	B-Instance_prop
+2	예들	_	_	O
+3	중	_	_	O
+4	하나가	_	_	O
+5	Paros에	_	_	O
+6	있는	_	_	O
+7	박물관에	_	_	O
+8	있지만,	_	_	O
+9	당신은	_	_	O
+10	Cyclades	_	_	O
+11	전체의	_	_	O
+12	고고학	_	_	O
+13	박물관들에서	_	_	O
+14	원래의	_	_	O
+15	본보기들을	본보기.n	Instance	O
+16	발견할	_	_	O
+17	것이다.	_	_	O
+
+#anno-id:1240
+#text:사람들은 경작하고 고기를 잡았으며 ; 기원 전 2700년의 청동기시대의 시작에서 그들은 금속으로 작업을 하기 시작하였다.
+0	사람들은	_	_	O
+1	경작하고	_	_	O
+2	고기를	_	_	O
+3	잡았으며	_	_	O
+4	;	_	_	O
+5	기원	_	_	O
+6	전	_	_	O
+7	2700년의	_	_	O
+8	청동기시대의	_	_	O
+9	시작에서	_	_	O
+10	그들은	_	_	B-Agent
+11	금속으로	_	_	B-Salient_entity
+12	작업을	작업.n	Work	O
+13	하기	_	_	O
+14	시작하였다.	_	_	O
+
+#anno-id:1243
+#text:사람들은 경작하고 고기를 잡았으며 ; 기원 전 2700년의 청동기시대의 시작에서 그들은 금속으로 작업을 하기 시작하였다.
+0	사람들은	_	_	O
+1	경작하고	_	_	O
+2	고기를	_	_	O
+3	잡았으며	_	_	O
+4	;	_	_	O
+5	기원	_	_	B-Time
+6	전	_	_	I-Time
+7	2700년의	_	_	I-Time
+8	청동기시대의	_	_	B-Time_period
+9	시작에서	시작.n	Temporal_subregion	O
+10	그들은	_	_	O
+11	금속으로	_	_	O
+12	작업을	_	_	O
+13	하기	_	_	O
+14	시작하였다.	_	_	O
+
+#anno-id:1245
+#text:Cycldaes 문화는 메소포타미아로부터 도자기 바퀴를 수입하여, 동부 사회의 영향을 받았다.
+0	Cycldaes	_	_	B-Agent
+1	문화는	_	_	I-Agent
+2	메소포타미아로부터	_	_	B-Exporting_area
+3	도자기	_	_	B-Goods
+4	바퀴를	_	_	I-Goods
+5	수입하여,	수입하다.v	Import_export_scenario	O
+6	동부	_	_	O
+7	사회의	_	_	O
+8	영향을	_	_	O
+9	받았다.	_	_	O
+
+#anno-id:1255
+#text:Crete 남쪽 더 먼 곳의 Minoan 문명은 기원 전 2000년 이후 그 시대의 최상위로 발달하여, 그 영향이 무역과 외교를 통해 지역 전체에 퍼졌다.
+0	Crete	_	_	B-Place
+1	남쪽	_	_	I-Place
+2	더	_	_	I-Place
+3	먼	_	_	I-Place
+4	곳의	_	_	I-Place
+5	Minoan	_	_	B-Entity
+6	문명은	_	_	I-Entity
+7	기원	_	_	B-Time
+8	전	_	_	I-Time
+9	2000년	_	_	I-Time
+10	이후	_	_	I-Time
+11	그	_	_	B-Post_state
+12	시대의	_	_	I-Post_state
+13	최상위로	_	_	I-Post_state
+14	발달하여,	발달하다.v	Progression	I-Post_state
+15	그	_	_	B-Event_description
+16	영향이	_	_	I-Event_description
+17	무역과	_	_	I-Event_description
+18	외교를	_	_	I-Event_description
+19	통해	_	_	I-Event_description
+20	지역	_	_	I-Event_description
+21	전체에	_	_	I-Event_description
+22	퍼졌다.	_	_	I-Event_description
+
+#anno-id:1263
+#text:Akrotiri에서 발견된 거대한 프레스코와 모자이크는 현재 아테네에 있지만, 현지의 건물 유적들은 이곳 문명이 고도의 수준이었다는 충분한 증거를 제공한다.
+0	Akrotiri에서	_	_	O
+1	발견된	_	_	O
+2	거대한	_	_	O
+3	프레스코와	_	_	O
+4	모자이크는	_	_	O
+5	현재	_	_	O
+6	아테네에	_	_	O
+7	있지만,	_	_	O
+8	현지의	_	_	B-Place
+9	건물	건물.n	Buildings	O
+10	유적들은	_	_	O
+11	이곳	_	_	O
+12	문명이	_	_	O
+13	고도의	_	_	O
+14	수준이었다는	_	_	O
+15	충분한	_	_	O
+16	증거를	_	_	O
+17	제공한다.	_	_	O
+
+#anno-id:1265
+#text:Akrotiri에서 발견된 거대한 프레스코와 모자이크는 현재 아테네에 있지만, 현지의 건물 유적들은 이곳 문명이 고도의 수준이었다는 충분한 증거를 제공한다.
+0	Akrotiri에서	_	_	O
+1	발견된	_	_	O
+2	거대한	_	_	O
+3	프레스코와	_	_	O
+4	모자이크는	_	_	O
+5	현재	_	_	O
+6	아테네에	_	_	O
+7	있지만,	_	_	O
+8	현지의	_	_	B-Supplier
+9	건물	_	_	I-Supplier
+10	유적들은	_	_	O
+11	이곳	_	_	B-Theme
+12	문명이	_	_	I-Theme
+13	고도의	_	_	I-Theme
+14	수준이었다는	_	_	I-Theme
+15	충분한	_	_	I-Theme
+16	증거를	_	_	I-Theme
+17	제공한다.	제공하다.v	Supply	I-Theme
+
+#anno-id:1266
+#text:이 엄청난 자연 격변에 뒤이어 다음의 에게 해 제도는 그리스 본토의 Peloponnese 지역에 근거가 있는 Mycenaea인들 ( 기원 전 1300년 경 ) 의 영향을 받게 되었다.
+0	이	_	_	O
+1	엄청난	_	_	O
+2	자연	_	_	O
+3	격변에	_	_	O
+4	뒤이어	_	_	O
+5	다음의	_	_	O
+6	에게	_	_	O
+7	해	_	_	O
+8	제도는	_	_	O
+9	그리스	_	_	B-Container_possessor
+10	본토의	_	_	I-Container_possessor
+11	Peloponnese	_	_	B-Name
+12	지역에	지역.n	Locale	O
+13	근거가	_	_	O
+14	있는	_	_	O
+15	Mycenaea인들	_	_	O
+16	(	_	_	O
+17	기원	_	_	O
+18	전	_	_	O
+19	1300년	_	_	O
+20	경	_	_	O
+21	)	_	_	O
+22	의	_	_	O
+23	영향을	_	_	O
+24	받게	_	_	O
+25	되었다.	_	_	O
+
+#anno-id:1286
+#text:그들은 야만 인종이였고, 그들의 그 지역 관리는 문자 언어가 잊히고 예술이 사라지게 한 암흑시대를 가져왔다.
+0	그들은	_	_	O
+1	야만	_	_	B-Type_property
+2	인종이였고,	인종이.n	Type	O
+3	그들의	_	_	O
+4	그	_	_	O
+5	지역	_	_	O
+6	관리는	_	_	O
+7	문자	_	_	O
+8	언어가	_	_	O
+9	잊히고	_	_	O
+10	예술이	_	_	O
+11	사라지게	_	_	O
+12	한	_	_	O
+13	암흑시대를	_	_	O
+14	가져왔다.	_	_	O
+
+#anno-id:1287
+#text:그들은 야만 인종이였고, 그들의 그 지역 관리는 문자 언어가 잊히고 예술이 사라지게 한 암흑시대를 가져왔다.
+0	그들은	_	_	O
+1	야만	_	_	O
+2	인종이였고,	_	_	O
+3	그들의	_	_	O
+4	그	_	_	O
+5	지역	_	_	O
+6	관리는	_	_	O
+7	문자	_	_	O
+8	언어가	_	_	O
+9	잊히고	_	_	O
+10	예술이	예술.n	Craft	O
+11	사라지게	_	_	O
+12	한	_	_	O
+13	암흑시대를	_	_	O
+14	가져왔다.	_	_	O
+
+#anno-id:1291
+#text:그들은 북쪽 그리스 해안의 섬들을 지배하였으나 Phoenicia인들은 주요 해안 루트인 그 지역 남부를 계속 장악하였고, 무역은 평상시와 같이 계속되었다.
+0	그들은	_	_	O
+1	북쪽	_	_	O
+2	그리스	_	_	O
+3	해안의	_	_	O
+4	섬들을	_	_	O
+5	지배하였으나	_	_	O
+6	Phoenicia인들은	_	_	O
+7	주요	_	_	O
+8	해안	_	_	O
+9	루트인	_	_	O
+10	그	_	_	O
+11	지역	지역.n	Locale	O
+12	남부를	_	_	O
+13	계속	_	_	O
+14	장악하였고,	_	_	O
+15	무역은	_	_	O
+16	평상시와	_	_	O
+17	같이	_	_	O
+18	계속되었다.	_	_	O
+
+#anno-id:1292
+#text:그들은 북쪽 그리스 해안의 섬들을 지배하였으나 Phoenicia인들은 주요 해안 루트인 그 지역 남부를 계속 장악하였고, 무역은 평상시와 같이 계속되었다.
+0	그들은	_	_	O
+1	북쪽	_	_	O
+2	그리스	_	_	O
+3	해안의	_	_	O
+4	섬들을	_	_	O
+5	지배하였으나	_	_	O
+6	Phoenicia인들은	_	_	O
+7	주요	_	_	O
+8	해안	_	_	O
+9	루트인	_	_	O
+10	그	_	_	O
+11	지역	_	_	O
+12	남부를	_	_	O
+13	계속	_	_	O
+14	장악하였고,	_	_	O
+15	무역은	무역.n	Exchange	O
+16	평상시와	_	_	O
+17	같이	_	_	O
+18	계속되었다.	_	_	O
+
+#anno-id:1294
+#text:그들은 북쪽 그리스 해안의 섬들을 지배하였으나 Phoenicia인들은 주요 해안 루트인 그 지역 남부를 계속 장악하였고, 무역은 평상시와 같이 계속되었다.
+0	그들은	_	_	O
+1	북쪽	_	_	O
+2	그리스	_	_	O
+3	해안의	_	_	B-Material
+4	섬들을	_	_	O
+5	지배하였으나	_	_	O
+6	Phoenicia인들은	_	_	O
+7	주요	_	_	O
+8	해안	_	_	O
+9	루트인	루트.n	Roadways	O
+10	그	_	_	O
+11	지역	_	_	O
+12	남부를	_	_	O
+13	계속	_	_	O
+14	장악하였고,	_	_	O
+15	무역은	_	_	O
+16	평상시와	_	_	O
+17	같이	_	_	O
+18	계속되었다.	_	_	O
+
+#anno-id:1296
+#text:그들은 북쪽 그리스 해안의 섬들을 지배하였으나 Phoenicia인들은 주요 해안 루트인 그 지역 남부를 계속 장악하였고, 무역은 평상시와 같이 계속되었다.
+0	그들은	_	_	O
+1	북쪽	_	_	O
+2	그리스	_	_	O
+3	해안의	_	_	O
+4	섬들을	_	_	O
+5	지배하였으나	_	_	O
+6	Phoenicia인들은	_	_	O
+7	주요	_	_	O
+8	해안	_	_	O
+9	루트인	_	_	O
+10	그	_	_	O
+11	지역	_	_	B-Place
+12	남부를	_	_	I-Place
+13	계속	_	_	O
+14	장악하였고,	_	_	O
+15	무역은	_	_	B-Event
+16	평상시와	_	_	B-Manner
+17	같이	_	_	I-Manner
+18	계속되었다.	계속되다.v	Process_continue	O
+
+#anno-id:1301
+#text:동시에, 도시국가들이 남부 그리스 본토의 영향으로 자라기 시작하였다.
+0	동시에,	_	_	O
+1	도시국가들이	_	_	O
+2	남부	_	_	O
+3	그리스	그리스.n	Origin	O
+4	본토의	_	_	B-Entity
+5	영향으로	_	_	O
+6	자라기	_	_	O
+7	시작하였다.	_	_	O
+
+#anno-id:1306
+#text:탁월한 운동 기량이 존중되었고 우호적인 경쟁을 증진시키기 위해 기원 전 776년에 올림픽 경기가 구성되었다.
+0	탁월한	_	_	O
+1	운동	_	_	B-Evaluee
+2	기량이	_	_	I-Evaluee
+3	존중되었고	존중되다.v	Judgment	O
+4	우호적인	_	_	O
+5	경쟁을	_	_	O
+6	증진시키기	_	_	O
+7	위해	_	_	O
+8	기원	_	_	O
+9	전	_	_	O
+10	776년에	_	_	O
+11	올림픽	_	_	O
+12	경기가	_	_	O
+13	구성되었다.	_	_	O
+
+#anno-id:1307
+#text:탁월한 운동 기량이 존경받았고 우호적인 경쟁을 증진시키기 위해 기원 전 776년에 올림픽 경기가 구성되었다.
+0	탁월한	_	_	O
+1	운동	_	_	O
+2	기량이	_	_	O
+3	존경받았고	_	_	O
+4	우호적인	_	_	O
+5	경쟁을	_	_	O
+6	증진시키기	_	_	O
+7	위해	_	_	O
+8	기원	_	_	B-Landmark_period
+9	전	_	_	I-Landmark_period
+10	776년에	에.j	Temporal_collocation	I-Landmark_period
+11	올림픽	_	_	B-Trajector_event
+12	경기가	_	_	I-Trajector_event
+13	구성되었다.	_	_	I-Trajector_event
+
+#anno-id:1311
+#text:이 시대의 발군의 섬들은 아테네가 지배하는 성스러운 섬이고 종교 센터인 Delos ; 폭군 Polycrates가 지배하는 Samos ; 그리고 통치자 Lygdamis가 일부 중요한 건설 프로젝트를 맡았던 Naxos 섬이였다.
+0	이	_	_	O
+1	시대의	_	_	O
+2	발군의	_	_	O
+3	섬들은	섬들.n	Natural_features	O
+4	아테네가	_	_	O
+5	지배하는	_	_	O
+6	성스러운	_	_	O
+7	섬이고	_	_	O
+8	종교	_	_	O
+9	센터인	_	_	O
+10	Delos	_	_	O
+11	;	_	_	O
+12	폭군	_	_	O
+13	Polycrates가	_	_	O
+14	지배하는	_	_	O
+15	Samos	_	_	O
+16	;	_	_	O
+17	그리고	_	_	O
+18	통치자	_	_	O
+19	Lygdamis가	_	_	O
+20	일부	_	_	O
+21	중요한	_	_	O
+22	건설	_	_	O
+23	프로젝트를	_	_	O
+24	맡았던	_	_	O
+25	Naxos	_	_	O
+26	섬이였다.	_	_	O
+
+#anno-id:1317
+#text:이 시대의 발군의 섬들은 아테네가 지배하는 성스러운 섬이고 종교 센터인 Delos ; 폭군 Polycrates가 지배하는 Samos ; 그리고 통치자 Lygdamis가 일부 중요한 건설 프로젝트를 맡았던 Naxos 섬이였다.
+0	이	_	_	O
+1	시대의	_	_	O
+2	발군의	_	_	O
+3	섬들은	_	_	O
+4	아테네가	_	_	O
+5	지배하는	_	_	O
+6	성스러운	_	_	O
+7	섬이고	_	_	O
+8	종교	_	_	O
+9	센터인	_	_	O
+10	Delos	_	_	O
+11	;	_	_	O
+12	폭군	_	_	O
+13	Polycrates가	_	_	O
+14	지배하는	_	_	O
+15	Samos	_	_	O
+16	;	_	_	O
+17	그리고	_	_	O
+18	통치자	_	_	O
+19	Lygdamis가	_	_	O
+20	일부	_	_	O
+21	중요한	_	_	O
+22	건설	건설.n	Building	O
+23	프로젝트를	_	_	O
+24	맡았던	_	_	O
+25	Naxos	_	_	O
+26	섬이였다.	_	_	O
+
+#anno-id:1323
+#text:Anatolia의 세력을 기반으로, 페르샤인들이 동부 에게 해 제도에 급속히 퍼졌고 Cyclades에 그들의 목표를 정하였다.
+0	Anatolia의	_	_	O
+1	세력을	세력.n	Leadership	O
+2	기반으로,	_	_	O
+3	페르샤인들이	_	_	O
+4	동부	_	_	O
+5	에게	_	_	O
+6	해	_	_	O
+7	제도에	_	_	O
+8	급속히	_	_	O
+9	퍼졌고	_	_	O
+10	Cyclades에	_	_	O
+11	그들의	_	_	O
+12	목표를	_	_	O
+13	정하였다.	_	_	O
+
+#anno-id:1326
+#text:기원 전 490년에 그들은 신성한 Delos를 점유하고 Naxos의 정착지를 파괴하였다.
+0	기원	_	_	B-Time
+1	전	_	_	I-Time
+2	490년에	_	_	I-Time
+3	그들은	_	_	B-Destroyer
+4	신성한	_	_	O
+5	Delos를	_	_	O
+6	점유하고	_	_	O
+7	Naxos의	_	_	B-Patient
+8	정착지를	_	_	I-Patient
+9	파괴하였다.	파괴하다.v	Destroying	O
+
+#anno-id:1339
+#text:몇몇 섬과 그리스 도시국가들이 함께 일하기로 합의하였고, 그들은 Delos 섬에서 가진 그들의 계획들에 자금을 지원하기 위해 보고를 결성하였다.
+0	몇몇	_	_	O
+1	섬과	섬.n	Natural_features	O
+2	그리스	_	_	O
+3	도시국가들이	_	_	O
+4	함께	_	_	O
+5	일하기로	_	_	O
+6	합의하였고,	_	_	O
+7	그들은	_	_	O
+8	Delos	_	_	O
+9	섬에서	_	_	O
+10	가진	_	_	O
+11	그들의	_	_	O
+12	계획들에	_	_	O
+13	자금을	_	_	O
+14	지원하기	_	_	O
+15	위해	_	_	O
+16	보고를	_	_	O
+17	결성하였다.	_	_	O
+
+#anno-id:1344
+#text:동맹은 Delian League로 알려지게 되었다.
+0	동맹은	_	_	B-Entity
+1	Delian	_	_	B-Name
+2	League로	_	_	I-Name
+3	알려지게	알려지다.v	Being_named	O
+4	되었다.	_	_	O
+
+#anno-id:1362
+#text:기원 전 401년에 전쟁이 끝나기 전, 많은 섬들이 이미 Macedon의 Philip II가 이끄는 승리자들에게로 그들의 충성의 대상을 옮겼다.
+0	기원	_	_	B-Landmark_period
+1	전	_	_	I-Landmark_period
+2	401년에	-에.j	Temporal_collocation	I-Landmark_period
+3	전쟁이	_	_	B-Trajector_event
+4	끝나기	_	_	I-Trajector_event
+5	전,	_	_	O
+6	많은	_	_	O
+7	섬들이	_	_	O
+8	이미	_	_	O
+9	Macedon의	_	_	O
+10	Philip	_	_	O
+11	II가	_	_	O
+12	이끄는	_	_	O
+13	승리자들에게로	_	_	O
+14	그들의	_	_	O
+15	충성의	_	_	O
+16	대상을	_	_	O
+17	옮겼다.	_	_	O
+
+#anno-id:1369
+#text:알렉산더 사후, 그의 영토는 그의 장군들에게 분배되었다.
+0	알렉산더	_	_	O
+1	사후,	_	_	O
+2	그의	_	_	O
+3	영토는	_	_	O
+4	그의	_	_	O
+5	장군들에게	장군.n	Leadership	O
+6	분배되었다.	_	_	O
+
+#anno-id:1371
+#text:기원 전 88년에, Mithradates가 동에서 소아시아와 에게 해 제도를 가로질러 신속하고 성공적인 습격을 하였으나, 그 다음의 주요 권력 변화는 서부로부터의 영향을 가져왔다.
+0	기원	_	_	O
+1	전	_	_	O
+2	88년에,	_	_	O
+3	Mithradates가	_	_	O
+4	동에서	_	_	O
+5	소아시아와	_	_	O
+6	에게	_	_	O
+7	해	_	_	O
+8	제도를	_	_	O
+9	가로질러	_	_	O
+10	신속하고	_	_	O
+11	성공적인	_	_	O
+12	습격을	_	_	O
+13	하였으나,	_	_	O
+14	그	_	_	O
+15	다음의	_	_	O
+16	주요	주요.n	Importance	O
+17	권력	_	_	B-Factor
+18	변화는	_	_	I-Factor
+19	서부로부터의	_	_	O
+20	영향을	_	_	O
+21	가져왔다.	_	_	O
+
+#anno-id:1372
+#text:기원 전 88년에, Mithradates가 동에서 소아시아와 에게 해 제도를 가로질러 신속하고 성공적인 습격을 하였으나, 그 다음의 주요 권력 변화는 서부로부터의 영향을 가져왔다.
+0	기원	_	_	B-Concessive
+1	전	_	_	I-Concessive
+2	88년에,	_	_	I-Concessive
+3	Mithradates가	_	_	I-Concessive
+4	동에서	_	_	I-Concessive
+5	소아시아와	_	_	I-Concessive
+6	에게	_	_	I-Concessive
+7	해	_	_	I-Concessive
+8	제도를	_	_	I-Concessive
+9	가로질러	_	_	I-Concessive
+10	신속하고	_	_	I-Concessive
+11	성공적인	_	_	I-Concessive
+12	습격을	_	_	I-Concessive
+13	하였으나,	_	_	I-Concessive
+14	그	_	_	B-Cause
+15	다음의	_	_	I-Cause
+16	주요	_	_	I-Cause
+17	권력	_	_	I-Cause
+18	변화는	_	_	I-Cause
+19	서부로부터의	_	_	B-Effect
+20	영향을	_	_	I-Effect
+21	가져왔다.	가져오다.v	Causation	O
+
+#anno-id:1377
+#text:그리스의 헬레니즘 제국은 점차적으로, 그리고 평화롭게 로마제국으로 흡수되었다.
+0	그리스의	그리스.n	Origin	O
+1	헬레니즘	_	_	B-Entity
+2	제국은	_	_	I-Entity
+3	점차적으로,	_	_	O
+4	그리고	_	_	O
+5	평화롭게	_	_	O
+6	로마제국으로	_	_	O
+7	흡수되었다.	_	_	O
+
+#anno-id:1387
+#text:비잔틴 제국은 강력하고 잘 요새화된 도시들을 가지고 있었으나, 시골 지역과 외곽 섬들은 침략자들의 물결에 의해 파괴되었다.
+0	비잔틴	_	_	O
+1	제국은	_	_	O
+2	강력하고	_	_	O
+3	잘	_	_	O
+4	요새화된	_	_	O
+5	도시들을	_	_	O
+6	가지고	_	_	O
+7	있었으나,	_	_	O
+8	시골	_	_	O
+9	지역과	_	_	O
+10	외곽	외곽.n	Locative_relation	O
+11	섬들은	_	_	B-Figures
+12	침략자들의	_	_	O
+13	물결에	_	_	O
+14	의해	_	_	O
+15	파괴되었다.	_	_	O
+
+#anno-id:1394
+#text:사라센 무슬림으로부터의 위협에 대응하기 위한 시도로, 동에서 온 새로운 강력한 종교 세력인 비잔틴 육군이 강제로 섬의 남자들을 징집하였다.
+0	사라센	_	_	O
+1	무슬림으로부터의	_	_	O
+2	위협에	_	_	O
+3	대응하기	_	_	O
+4	위한	_	_	O
+5	시도로,	_	_	O
+6	동에서	_	_	O
+7	온	_	_	O
+8	새로운	_	_	O
+9	강력한	_	_	O
+10	종교	_	_	O
+11	세력인	_	_	O
+12	비잔틴	_	_	O
+13	육군이	_	_	O
+14	강제로	_	_	O
+15	섬의	_	_	B-Origin
+16	남자들을	남자.n	People	O
+17	징집하였다.	_	_	O
+
+#anno-id:1408
+#text:비잔틴 제국이 처음 천년 말기에 약화됨에 따라, 십자군은 무슬림 세력에 대응하고 기독교 신앙을 위한 예루살렘 탈환을 위해 서유럽으로부터 보내졌다.
+0	비잔틴	_	_	B-Name
+1	제국이	제국.n	Political_locales	O
+2	처음	_	_	O
+3	천년	_	_	O
+4	말기에	_	_	O
+5	약화됨에	_	_	O
+6	따라,	_	_	O
+7	십자군은	_	_	O
+8	무슬림	_	_	O
+9	세력에	_	_	O
+10	대응하고	_	_	O
+11	기독교	_	_	O
+12	신앙을	_	_	O
+13	위한	_	_	O
+14	예루살렘	_	_	O
+15	탈환을	_	_	O
+16	위해	_	_	O
+17	서유럽으로부터	_	_	O
+18	보내졌다.	_	_	O
+
+#anno-id:1409
+#text:비잔틴 제국이 처음 천년 말기에 약화됨에 따라, 십자군은 무슬림 세력에 대응하고 기독교 신앙을 위한 예루살렘 탈환을 위해 서유럽으로부터 보내졌다.
+0	비잔틴	_	_	O
+1	제국이	_	_	O
+2	처음	_	_	O
+3	천년	_	_	O
+4	말기에	_	_	O
+5	약화됨에	_	_	O
+6	따라,	_	_	O
+7	십자군은	_	_	O
+8	무슬림	무슬림.n	People_by_religion	O
+9	세력에	_	_	O
+10	대응하고	_	_	O
+11	기독교	_	_	O
+12	신앙을	_	_	O
+13	위한	_	_	O
+14	예루살렘	_	_	O
+15	탈환을	_	_	O
+16	위해	_	_	O
+17	서유럽으로부터	_	_	O
+18	보내졌다.	_	_	O
+
+#anno-id:1410
+#text:불행하게도, 그들의 열성은 그들의 차별에 필적하지 못하였다.
+0	불행하게도,	_	_	O
+1	그들의	_	_	B-Cognizer
+2	열성은	_	_	O
+3	그들의	_	_	O
+4	차별에	차별.n	Differentiation	O
+5	필적하지	_	_	O
+6	못하였다.	_	_	O
+
+#anno-id:1411
+#text:비잔틴 영토가 분할되는 동안 바다를 통제하는 사람이 없었고, 그래서 해적들이 많은 섬들의 마을들을 습격하였다.
+0	비잔틴	_	_	O
+1	영토가	_	_	O
+2	분할되는	_	_	O
+3	동안	_	_	O
+4	바다를	_	_	O
+5	통제하는	_	_	O
+6	사람이	_	_	O
+7	없었고,	_	_	O
+8	그래서	_	_	O
+9	해적들이	_	_	O
+10	많은	_	_	O
+11	섬들의	섬들.n	Natural_features	O
+12	마을들을	_	_	O
+13	습격하였다.	_	_	O
+
+#anno-id:1415
+#text:비잔틴 영토가 분할되는 동안 바다를 통제하는 사람이 없었고, 그래서 해적들이 많은 섬들의 마을들을 습격하였다.
+0	비잔틴	_	_	O
+1	영토가	_	_	O
+2	분할되는	_	_	O
+3	동안	_	_	O
+4	바다를	바다.n	Natural_features	O
+5	통제하는	_	_	O
+6	사람이	_	_	O
+7	없었고,	_	_	O
+8	그래서	_	_	O
+9	해적들이	_	_	O
+10	많은	_	_	O
+11	섬들의	_	_	O
+12	마을들을	_	_	O
+13	습격하였다.	_	_	O
+
+#anno-id:1418
+#text:비잔틴 영토가 분할되는 동안 바다를 통제하는 사람이 아무도 없었고, 그래서 해적들이 많은 섬들의 마을들을 습격하였다.
+0	비잔틴	_	_	O
+1	영토가	_	_	O
+2	분할되는	_	_	O
+3	동안	_	_	O
+4	바다를	_	_	B-Mass
+5	통제하는	_	_	I-Mass
+6	사람이	_	_	I-Mass
+7	아무도	아무도.ad	Quantity	O
+8	없었고,	_	_	O
+9	그래서	_	_	O
+10	해적들이	_	_	O
+11	많은	_	_	O
+12	섬들의	_	_	O
+13	마을들을	_	_	O
+14	습격하였다.	_	_	O
+
+#anno-id:1419
+#text:비잔틴 영토가 분할되는 동안 바다를 통제하는 사람이 없었고, 그래서 해적들이 많은 섬들의 마을들을 습격하였다.
+0	비잔틴	_	_	O
+1	영토가	_	_	O
+2	분할되는	_	_	O
+3	동안	_	_	O
+4	바다를	_	_	O
+5	통제하는	_	_	O
+6	사람이	_	_	O
+7	없었고,	_	_	O
+8	그래서	_	_	O
+9	해적들이	_	_	O
+10	많은	_	_	B-Relative_location
+11	섬들의	_	_	I-Relative_location
+12	마을들을	마을.n	Political_locales	O
+13	습격하였다.	_	_	O
+
+#anno-id:1431
+#text:1309년에 무슬림에 의해 최종적인 유혈의 패배 후에 기독교 세력은 성지에서 강제로 떠났다.
+0	1309년에	_	_	O
+1	무슬림에	_	_	B-Time
+2	의해	_	_	I-Time
+3	최종적인	_	_	I-Time
+4	유혈의	_	_	I-Time
+5	패배	_	_	I-Time
+6	후에	_	_	I-Time
+7	기독교	_	_	B-Theme
+8	세력은	_	_	I-Theme
+9	성지에서	_	_	B-Source
+10	강제로	강제.n	Cause_motion	O
+11	떠났다.	_	_	O
+
+#anno-id:1441
+#text:그들은 그들의 강력한 성채들을 짓고, 섬에서 기독교 신앙을 강화하는 과정을 시작하였다.
+0	그들은	_	_	O
+1	그들의	_	_	O
+2	강력한	_	_	O
+3	성채들을	_	_	O
+4	짓고,	_	_	O
+5	섬에서	_	_	O
+6	기독교	기독교.n	People_by_religion	O
+7	신앙을	_	_	O
+8	강화하는	_	_	O
+9	과정을	_	_	O
+10	시작하였다.	_	_	O
+
+#anno-id:1445
+#text:한 세력이 그들의 새로운 기지를 위협하기 위해 동쪽에서 세력을 늘리고 있었다.
+0	한	_	_	O
+1	세력이	_	_	O
+2	그들의	_	_	O
+3	새로운	_	_	O
+4	기지를	_	_	O
+5	위협하기	_	_	O
+6	위해	_	_	O
+7	동쪽에서	동쪽.n	Direction	O
+8	세력을	_	_	O
+9	늘리고	_	_	O
+10	있었다.	_	_	O
+
+#anno-id:1446
+#text:한 세력이 그들의 새로운 기지를 위협하기 위해 동쪽에서 세력을 늘리고 있었다.
+0	한	_	_	O
+1	세력이	세력.n	Military	O
+2	그들의	_	_	O
+3	새로운	_	_	O
+4	기지를	_	_	O
+5	위협하기	_	_	O
+6	위해	_	_	O
+7	동쪽에서	_	_	O
+8	세력을	_	_	O
+9	늘리고	_	_	O
+10	있었다.	_	_	O
+
+#anno-id:1449
+#text:13 세기 말에, 그들은 에게 해 제도에 대한 그들 최초의 습격을 시작하였다.
+0	13	_	_	B-Time_period
+1	세기	_	_	I-Time_period
+2	말에,	말.n	Temporal_subregion	O
+3	그들은	_	_	O
+4	에게	_	_	O
+5	해	_	_	O
+6	제도에	_	_	O
+7	대한	_	_	O
+8	그들	_	_	O
+9	최초의	_	_	O
+10	습격을	_	_	O
+11	시작하였다.	_	_	O
+
+#anno-id:1456
+#text:Ottoman인들은 동 지중해 지역으로 뻗친 큰 제국을 형성하여, 그들이 통제하는 섬들에 새로운 영향을 가져왔다.
+0	Ottoman인들은	_	_	B-Influencing_entity
+1	동	_	_	O
+2	지중해	_	_	O
+3	지역으로	_	_	O
+4	뻗친	_	_	O
+5	큰	_	_	O
+6	제국을	_	_	O
+7	형성하여,	_	_	O
+8	그들이	_	_	O
+9	통제하는	_	_	O
+10	섬들에	_	_	B-Dependent_entity
+11	새로운	_	_	O
+12	영향을	영향.n	Objective_influence	O
+13	가져왔다.	_	_	O
+
+#anno-id:1460
+#text:그러나, Ottoman 지배에 반대하고 독립된 그리스 국가를 위한 운동이 그리스 반도에 증가하고 있었다.
+0	그러나,	그러나.ad	Concessive	O
+1	Ottoman	_	_	B-Main_assertion
+2	지배에	_	_	I-Main_assertion
+3	반대하고	_	_	I-Main_assertion
+4	독립된	_	_	I-Main_assertion
+5	그리스	_	_	I-Main_assertion
+6	국가를	_	_	I-Main_assertion
+7	위한	_	_	I-Main_assertion
+8	운동이	_	_	I-Main_assertion
+9	그리스	_	_	I-Main_assertion
+10	반도에	_	_	I-Main_assertion
+11	증가하고	_	_	I-Main_assertion
+12	있었다.	_	_	I-Main_assertion
+
+#anno-id:1463
+#text:그러나, Ottoman 지배에 반대하고 독립된 그리스 국가를 위한 운동이 그리스 반도에 증가하고 있었다.
+0	그러나,	_	_	O
+1	Ottoman	_	_	O
+2	지배에	_	_	O
+3	반대하고	_	_	O
+4	독립된	_	_	O
+5	그리스	그리스.n	Origin	O
+6	국가를	_	_	O
+7	위한	_	_	O
+8	운동이	_	_	O
+9	그리스	_	_	O
+10	반도에	_	_	B-Entity
+11	증가하고	_	_	O
+12	있었다.	_	_	O
+
+#anno-id:1464
+#text:그러나, Ottoman 지배에 반대하고 독립된 그리스 국가를 위한 운동이 그리스 반도에 증가하고 있었다.
+0	그러나,	_	_	O
+1	Ottoman	_	_	O
+2	지배에	_	_	O
+3	반대하고	_	_	O
+4	독립된	_	_	O
+5	그리스	그리스.n	Origin	O
+6	국가를	_	_	B-Entity
+7	위한	_	_	O
+8	운동이	_	_	O
+9	그리스	_	_	O
+10	반도에	_	_	O
+11	증가하고	_	_	O
+12	있었다.	_	_	O
+
+#anno-id:1470
+#text:1770년에, 러시아는 그리스 ( 역사 지리적 경계라기 보다는 정교회에 의해 규정된 ) 를 돕게 되었고, Ottoman 제국에 전쟁을 선포하고 1744년 까지 에게 해의 몇 개의 섬을 점령하였다.
+0	1770년에,	_	_	O
+1	러시아는	_	_	O
+2	그리스	_	_	O
+3	(	_	_	O
+4	역사	_	_	O
+5	지리적	_	_	O
+6	경계라기	_	_	O
+7	보다는	_	_	O
+8	정교회에	_	_	O
+9	의해	_	_	O
+10	규정된	_	_	O
+11	)	_	_	O
+12	를	_	_	O
+13	돕게	_	_	O
+14	되었고,	_	_	O
+15	Ottoman	_	_	O
+16	제국에	_	_	O
+17	전쟁을	_	_	O
+18	선포하고	_	_	O
+19	1744년	_	_	O
+20	까지	_	_	O
+21	에게	_	_	O
+22	해의	_	_	B-Name
+23	몇	_	_	O
+24	개의	_	_	O
+25	섬을	섬.n	Natural_features	O
+26	점령하였다.	_	_	O
+
+#anno-id:1472
+#text:1770년에, 러시아는 그리스 ( 역사 지리적 경계라기 보다는 정교회에 의해 규정된 ) 를 돕게 되었고, Ottoman 제국에 전쟁을 선포하고 1744년 까지 에게 해의 몇 개의 섬을 점령하였다.
+0	1770년에,	_	_	O
+1	러시아는	_	_	O
+2	그리스	_	_	O
+3	(	_	_	O
+4	역사	_	_	O
+5	지리적	_	_	O
+6	경계라기	_	_	O
+7	보다는	_	_	O
+8	정교회에	_	_	O
+9	의해	_	_	O
+10	규정된	_	_	O
+11	)	_	_	O
+12	를	_	_	O
+13	돕게	_	_	O
+14	되었고,	_	_	O
+15	Ottoman	_	_	B-Name
+16	제국에	제국.n	Political_locales	O
+17	전쟁을	_	_	O
+18	선포하고	_	_	O
+19	1744년	_	_	O
+20	까지	_	_	O
+21	에게	_	_	O
+22	해의	_	_	O
+23	몇	_	_	O
+24	개의	_	_	O
+25	섬을	_	_	O
+26	점령하였다.	_	_	O
+
+#anno-id:1474
+#text:러시아 군인들이 쓴 낙서는 Antiparos의 동굴에서 볼 수 있다.
+0	러시아	_	_	B-Author
+1	군인들이	_	_	I-Author
+2	쓴	쓰다.a	Text_creation	O
+3	낙서는	_	_	B-Text
+4	Antiparos의	_	_	O
+5	동굴에서	_	_	O
+6	볼	_	_	O
+7	수	_	_	O
+8	있다.	_	_	O
+
+#anno-id:1482
+#text:비록 이러한 시도가 성공적이지 못했지만, 그리스 국가를 위한 캠페인은 19세기에 계속되었고 세력이 증가하기 시작하였다.
+0	비록	_	_	O
+1	이러한	_	_	O
+2	시도가	_	_	B-Means
+3	성공적이지	성공적이지_못하다.a	Successful_action	O
+4	못했지만,	성공적이지_못하다.a	Successful_action	O
+5	그리스	_	_	O
+6	국가를	_	_	O
+7	위한	_	_	O
+8	캠페인은	_	_	O
+9	19세기에	_	_	O
+10	계속되었고	_	_	O
+11	세력이	_	_	O
+12	증가하기	_	_	O
+13	시작하였다.	_	_	O
+
+#anno-id:1483
+#text:비록 이러한 시도가 성공적이지 않았지만, 그리스 국가를 위한 캠페인은 19세기에 계속되었고 세력이 증가하기 시작하였다.
+0	비록	_	_	O
+1	이러한	_	_	O
+2	시도가	_	_	O
+3	성공적이지	_	_	O
+4	않았지만,	_	_	O
+5	그리스	_	_	O
+6	국가를	_	_	O
+7	위한	_	_	O
+8	캠페인은	_	_	O
+9	19세기에	세기.n	Measure_duration	B-Count
+10	계속되었고	_	_	O
+11	세력이	_	_	O
+12	증가하기	_	_	O
+13	시작하였다.	_	_	O
+
+#anno-id:1484
+#text:에게 해 섬들은 그들의 역할을 하였다.
+0	에게	_	_	O
+1	해	_	_	B-Name
+2	섬들은	섬들.n	Natural_features	O
+3	그들의	_	_	O
+4	역할을	_	_	O
+5	하였다.	_	_	O
+
+#anno-id:1490
+#text:오토만 제국은 그러나 약해졌고, 1821년에 그리스 본토 사람들은 최초로 독립국가의 신분을 쟁취하였다.
+0	오토만	_	_	O
+1	제국은	_	_	O
+2	그러나	_	_	O
+3	약해졌고,	_	_	O
+4	1821년에	_	_	O
+5	그리스	_	_	B-Origin
+6	본토	_	_	I-Origin
+7	사람들은	사람.n	People	I-Origin
+8	최초로	_	_	O
+9	독립국가의	_	_	O
+10	신분을	_	_	O
+11	쟁취하였다.	_	_	O
+
+#anno-id:1493
+#text:오토만 제국은 그러나 약해졌고, 1821년에 그리스 본토 사람들은 최초로 독립국가의 신분을 쟁취하였다.
+0	오토만	_	_	B-Name
+1	제국은	제국.n	Political_locales	O
+2	그러나	_	_	O
+3	약해졌고,	_	_	O
+4	1821년에	_	_	O
+5	그리스	_	_	O
+6	본토	_	_	O
+7	사람들은	_	_	O
+8	최초로	_	_	O
+9	독립국가의	_	_	O
+10	신분을	_	_	O
+11	쟁취하였다.	_	_	O
+
+#anno-id:1499
+#text:새로운 정체성이 에게 해 전역에서 그리스 사람들을 감쌌고, 그리하여 그리스를 확장하고 이질적인 정교회 주민들을 통합하기 위한 운동이 시작되었다.
+0	새로운	_	_	B-Theme
+1	정체성이	_	_	I-Theme
+2	에게	_	_	O
+3	해	_	_	B-Location
+4	전역에서	_	_	I-Location
+5	그리스	_	_	I-Location
+6	사람들을	_	_	I-Location
+7	감쌌고,	감싸다.v	Distributed_position	O
+8	그리하여	_	_	O
+9	그리스를	_	_	O
+10	확장하고	_	_	O
+11	이질적인	_	_	O
+12	정교회	_	_	O
+13	주민들을	_	_	O
+14	통합하기	_	_	O
+15	위한	_	_	O
+16	운동이	_	_	O
+17	시작되었다.	_	_	O
+

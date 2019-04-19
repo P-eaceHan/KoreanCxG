@@ -1,0 +1,1550 @@
+#anno-id:19648
+#text:선한 일을 한 사람에게는 상이 내리는 법이다.
+0	선한	_	_	O
+1	일을	_	_	O
+2	한	_	_	B-Recipient
+3	사람에게는	_	_	I-Recipient
+4	상이	_	_	B-Theme
+5	내리는	내리다.v	Giving	O
+6	법이다.	_	_	O
+
+#anno-id:19649
+#text:경제 발전이 저해될 수 있는 소지를 미연에 없애버리시오.
+0	경제	_	_	B-Action
+1	발전이	_	_	I-Action
+2	저해될	저해되다.v	Hindering	O
+3	수	_	_	O
+4	있는	_	_	O
+5	소지를	_	_	O
+6	미연에	_	_	O
+7	없애버리시오.	_	_	O
+
+#anno-id:19656
+#text:정화는 그 이론의 정확한 내용을 깨닫지 못했다.
+0	정화는	_	_	B-Cognizer
+1	그	_	_	B-Phenomenon
+2	이론의	_	_	I-Phenomenon
+3	정확한	_	_	I-Phenomenon
+4	내용을	_	_	I-Phenomenon
+5	깨닫지	깨닫다.v	Becoming_aware	O
+6	못했다.	_	_	O
+
+#anno-id:19657
+#text:12 인 배심은 지난 3 일간의 심리 끝에 이날 로스앤젤레스에서 이민 상담역으로 일해 온 샤에 대해 캘리포니아주의 한 불교사원에서 민주당을 위해 모금한 선거자금에 관해 허위진술을 하는 등 5 개 항목의 중범죄을 저질렀다고 평결했다.
+0	12	_	_	O
+1	인	_	_	O
+2	배심은	_	_	O
+3	지난	_	_	O
+4	3	_	_	O
+5	일간의	_	_	O
+6	심리	_	_	O
+7	끝에	_	_	O
+8	이날	_	_	O
+9	로스앤젤레스에서	_	_	O
+10	이민	_	_	O
+11	상담역으로	_	_	O
+12	일해	_	_	O
+13	온	_	_	O
+14	샤에	_	_	O
+15	대해	_	_	O
+16	캘리포니아주의	_	_	O
+17	한	_	_	O
+18	불교사원에서	_	_	O
+19	민주당을	_	_	B-Goal
+20	위해	위하다.v	Purpose	O
+21	모금한	_	_	O
+22	선거자금에	_	_	O
+23	관해	_	_	O
+24	허위진술을	_	_	O
+25	하는	_	_	O
+26	등	_	_	O
+27	5	_	_	O
+28	개	_	_	O
+29	항목의	_	_	O
+30	중범죄을	_	_	O
+31	저질렀다고	_	_	O
+32	평결했다.	_	_	O
+
+#anno-id:19659
+#text:십에서 오를 빼면 얼마냐?
+0	십에서	_	_	B-Term_1
+1	오를	_	_	B-Term_2
+2	빼면	빼다.v	Non-commutative_process	O
+3	얼마냐?	_	_	O
+
+#anno-id:19661
+#text:거친 태풍이 여객선의 출발를 지연시켰다.
+0	거친	_	_	B-Cause
+1	태풍이	_	_	I-Cause
+2	여객선의	_	_	B-Event
+3	출발를	_	_	I-Event
+4	지연시켰다.	지연시키다.v	Change_event_time	O
+
+#anno-id:19670
+#text:그의 발언은 일본 정부가 북한과의 국교정상화 협상 재개 등 관계 개선을 위해 식량지원을 실시하기로 결정한 날 나온 것으로, 북한측의 반발을 초래할 것으로 전망된다.
+0	그의	_	_	O
+1	발언은	_	_	O
+2	일본	_	_	B-Agent
+3	정부가	_	_	I-Agent
+4	북한과의	_	_	B-Goal
+5	국교정상화	_	_	I-Goal
+6	협상	_	_	I-Goal
+7	재개	_	_	I-Goal
+8	등	_	_	I-Goal
+9	관계	_	_	I-Goal
+10	개선을	_	_	I-Goal
+11	위해	위하다.v	Purpose	O
+12	식량지원을	_	_	O
+13	실시하기로	_	_	O
+14	결정한	_	_	O
+15	날	_	_	O
+16	나온	_	_	O
+17	것으로,	_	_	O
+18	북한측의	_	_	O
+19	반발을	_	_	O
+20	초래할	_	_	O
+21	것으로	_	_	O
+22	전망된다.	_	_	O
+
+#anno-id:19672
+#text:바이러스는 발생 24시간만에 220 만대의 컴퓨터를 감염시키고 이에 의해 5억3000만 달러의 손실을 입혔다.
+0	바이러스는	_	_	O
+1	발생	_	_	O
+2	24시간만에	_	_	O
+3	220	_	_	O
+4	만대의	_	_	O
+5	컴퓨터를	_	_	O
+6	감염시키고	_	_	O
+7	이에	_	_	O
+8	의해	_	_	O
+9	5억3000만	_	_	B-Effect
+10	달러의	_	_	I-Effect
+11	손실을	_	_	I-Effect
+12	입혔다.	입히다.v	Causation	O
+
+#anno-id:19676
+#text:관계 당국이 그 사업을 인가했기 때문에, 이제 안심하고 그 일에 몰두할 수 있다.
+0	관계	_	_	B-Authority
+1	당국이	_	_	I-Authority
+2	그	_	_	B-Action
+3	사업을	_	_	I-Action
+4	인가했기	인가하다.v	Deny_or_grant_permission	O
+5	때문에,	_	_	O
+6	이제	_	_	O
+7	안심하고	_	_	O
+8	그	_	_	O
+9	일에	_	_	O
+10	몰두할	_	_	O
+11	수	_	_	O
+12	있다.	_	_	O
+
+#anno-id:19677
+#text:예산이 책정되면 제대로 집행되는지 감시가 철저히 이루어져야 한다.
+0	예산이	_	_	B-Decision
+1	책정되면	책정되다.v	Deciding	O
+2	제대로	_	_	O
+3	집행되는지	_	_	O
+4	감시가	_	_	O
+5	철저히	_	_	O
+6	이루어져야	_	_	O
+7	한다.	_	_	O
+
+#anno-id:19680
+#text:무고한 시민이 테러단에 납치되어 살해당하는 비극이 세계 곳곳에서 일어나고 있다.
+0	무고한	_	_	B-Victim
+1	시민이	_	_	I-Victim
+2	테러단에	_	_	B-Perpetrator
+3	납치되어	납치되다.v	Kidnapping	O
+4	살해당하는	_	_	O
+5	비극이	_	_	O
+6	세계	_	_	O
+7	곳곳에서	_	_	O
+8	일어나고	_	_	O
+9	있다.	_	_	O
+
+#anno-id:19681
+#text:며칠간 방안에 퍼져 있었더니 몸이 나근하다.
+0	며칠간	_	_	B-Place
+1	방안에	_	_	I-Place
+2	퍼져	퍼지다.v	Motion	O
+3	있었더니	_	_	O
+4	몸이	_	_	O
+5	나근하다.	_	_	O
+
+#anno-id:19688
+#text:검찰을 빠져나오던 전 대통령이 기자들에게 촬영당하자 경호진들은 신경질적인 반응을 보였다.
+0	검찰을	_	_	B-Performer
+1	빠져나오던	_	_	I-Performer
+2	전	_	_	I-Performer
+3	대통령이	_	_	I-Performer
+4	기자들에게	_	_	B-Artist
+5	촬영당하자	촬영당하다.v	Behind_the_scenes	O
+6	경호진들은	_	_	O
+7	신경질적인	_	_	O
+8	반응을	_	_	O
+9	보였다.	_	_	O
+
+#anno-id:19699
+#text:신문은 이같은 제휴가 성사되더라도 피아트의 파올로 프레스코 회장과 파올로 칸타렐라 사장의 입지가 위축되지 않을 것이라고 분석했다.
+0	신문은	_	_	O
+1	이같은	_	_	B-Goal
+2	제휴가	_	_	I-Goal
+3	성사되더라도	성사하다.v	Accomplishment	O
+4	피아트의	_	_	O
+5	파올로	_	_	O
+6	프레스코	_	_	O
+7	회장과	_	_	O
+8	파올로	_	_	O
+9	칸타렐라	_	_	O
+10	사장의	_	_	O
+11	입지가	_	_	O
+12	위축되지	_	_	O
+13	않을	_	_	O
+14	것이라고	_	_	O
+15	분석했다.	_	_	O
+
+#anno-id:19700
+#text:나라를 이끌어가기 위해서는 능력이 훌륭한 인재들을 비서관에 등용해야 한다.
+0	나라를	_	_	O
+1	이끌어가기	_	_	O
+2	위해서는	_	_	O
+3	능력이	_	_	B-Official
+4	훌륭한	_	_	I-Official
+5	인재들을	_	_	I-Official
+6	비서관에	_	_	B-Role
+7	등용해야	등용하다.v	Appointing	O
+8	한다.	_	_	O
+
+#anno-id:19702
+#text:하나로통신은 심사가 최종 통과되는 대로 미 현지 로드쇼등을 통해 투자자들의 반응을 살펴본 뒤 공모가를 결정할 계획이다.
+0	하나로통신은	_	_	O
+1	심사가	_	_	B-Means
+2	최종	_	_	I-Means
+3	통과되는	_	_	I-Means
+4	대로	_	_	I-Means
+5	미	_	_	I-Means
+6	현지	_	_	I-Means
+7	로드쇼등을	_	_	I-Means
+8	통해	_	_	I-Means
+9	투자자들의	_	_	B-Phenomenon
+10	반응을	_	_	I-Phenomenon
+11	살펴본	살펴보다.v	Perception_active	O
+12	뒤	_	_	B-Time
+13	공모가를	_	_	O
+14	결정할	_	_	O
+15	계획이다.	_	_	O
+
+#anno-id:19703
+#text:70 년대를 거치면서 유럽경제공동체의 연방주의적 성격이 퇴색하면서 새로운 발전의 전기를 위해 정부간의 회담이 다시 요청되었다.
+0	70	_	_	O
+1	년대를	_	_	O
+2	거치면서	_	_	O
+3	유럽경제공동체의	_	_	O
+4	연방주의적	_	_	O
+5	성격이	_	_	O
+6	퇴색하면서	_	_	O
+7	새로운	_	_	O
+8	발전의	_	_	O
+9	전기를	_	_	O
+10	위해	_	_	O
+11	정부간의	_	_	B-Message
+12	회담이	_	_	I-Message
+13	다시	_	_	B-Manner
+14	요청되었다.	요청되다.v	Request	O
+
+#anno-id:19710
+#text:어머니는 잠이 든 아들의 머리를 가볍게 어루만지고 있었다.
+0	어머니는	_	_	B-Agent
+1	잠이	_	_	B-Entity
+2	든	_	_	I-Entity
+3	아들의	_	_	I-Entity
+4	머리를	_	_	I-Entity
+5	가볍게	_	_	B-Manner
+6	어루만지고	어루만지다.v	Manipulation	O
+7	있었다.	_	_	O
+
+#anno-id:19712
+#text:그러나 공화당은 빌 클린턴 대통령의 96 년 재선으로 8 년만에 정권교체를 이뤄야 하는 최대 과제에 직면하고 있는만큼 이런 주장은 관심을 모으기에 충분하다.
+0	그러나	_	_	O
+1	공화당은	_	_	O
+2	빌	_	_	B-Manner
+3	클린턴	_	_	I-Manner
+4	대통령의	_	_	I-Manner
+5	96	_	_	I-Manner
+6	년	_	_	I-Manner
+7	재선으로	_	_	I-Manner
+8	8	_	_	B-Time
+9	년만에	_	_	I-Time
+10	정권교체를	_	_	B-Final_quality
+11	이뤄야	이루다.v	Becoming	O
+12	하는	_	_	O
+13	최대	_	_	O
+14	과제에	_	_	O
+15	직면하고	_	_	O
+16	있는만큼	_	_	O
+17	이런	_	_	O
+18	주장은	_	_	O
+19	관심을	_	_	O
+20	모으기에	_	_	O
+21	충분하다.	_	_	O
+
+#anno-id:19717
+#text:정보통신 인력난에 봉착하고 있는 독일에서 외국인 전문 인력을 수입하는 문제를 둘러싸고 찬반 논쟁이 벌어지고 있다.
+0	정보통신	_	_	O
+1	인력난에	_	_	O
+2	봉착하고	_	_	O
+3	있는	_	_	O
+4	독일에서	_	_	O
+5	외국인	_	_	B-Goods
+6	전문	_	_	I-Goods
+7	인력을	_	_	I-Goods
+8	수입하는	수입하다.v	Importing	O
+9	문제를	_	_	O
+10	둘러싸고	_	_	O
+11	찬반	_	_	O
+12	논쟁이	_	_	O
+13	벌어지고	_	_	O
+14	있다.	_	_	O
+
+#anno-id:19733
+#text:그는 사회의 부조리에 대해 분노했다.
+0	그는	_	_	B-Experiencer
+1	사회의	_	_	B-Content
+2	부조리에	_	_	I-Content
+3	대해	_	_	O
+4	분노했다.	분노하다.v	Experiencer_focus	O
+
+#anno-id:19734
+#text:그 배우는 애꿎은 나에게만 공연 시작 시간을 지키지 않는 것을 타박했다.
+0	그	_	_	B-Communicator
+1	배우는	_	_	I-Communicator
+2	애꿎은	_	_	B-Evaluee
+3	나에게만	_	_	I-Evaluee
+4	공연	_	_	B-Topic
+5	시작	_	_	I-Topic
+6	시간을	_	_	I-Topic
+7	지키지	_	_	I-Topic
+8	않는	_	_	I-Topic
+9	것을	_	_	I-Topic
+10	타박했다.	타박하다.v	Judgment_communication	O
+
+#anno-id:19739
+#text:그들은 길목을 지키고 서 있었다.
+0	그들은	_	_	B-Protection
+1	길목을	_	_	B-Asset
+2	지키고	지키다.v	Protecting	O
+3	서	_	_	O
+4	있었다.	_	_	O
+
+#anno-id:19750
+#text:제임스 폴리 국무부 대변인은 블라디미르 푸틴 러시아 대통령 직무대행이 지난 주말 러시아가 언젠가는 나토에 정식 가입할 수도 있을 것이라고 발언한 데 대해 언급, 러시아가 당장 나토에 가입하려는 것으로 해석할 수는 없지만 나토와의 관계를 개선하려는 새로운 의지를 시사하는 것으로는 볼 수 있다고 말했다.
+0	제임스	_	_	B-Category
+1	폴리	_	_	I-Category
+2	국무부	_	_	I-Category
+3	대변인은	_	_	I-Category
+4	블라디미르	_	_	I-Category
+5	푸틴	_	_	I-Category
+6	러시아	_	_	I-Category
+7	대통령	_	_	I-Category
+8	직무대행이	_	_	I-Category
+9	지난	_	_	I-Category
+10	주말	_	_	I-Category
+11	러시아가	_	_	I-Category
+12	언젠가는	_	_	I-Category
+13	나토에	_	_	I-Category
+14	정식	_	_	I-Category
+15	가입할	_	_	I-Category
+16	수도	_	_	I-Category
+17	있을	_	_	I-Category
+18	것이라고	_	_	I-Category
+19	발언한	_	_	I-Category
+20	데	_	_	I-Category
+21	대해	_	_	I-Category
+22	언급,	_	_	I-Category
+23	러시아가	_	_	I-Category
+24	당장	_	_	I-Category
+25	나토에	_	_	I-Category
+26	가입하려는	_	_	I-Category
+27	것으로	_	_	I-Category
+28	해석할	해석하다.v	Categorization	O
+29	수는	_	_	O
+30	없지만	_	_	O
+31	나토와의	_	_	O
+32	관계를	_	_	O
+33	개선하려는	_	_	O
+34	새로운	_	_	O
+35	의지를	_	_	O
+36	시사하는	_	_	O
+37	것으로는	_	_	O
+38	볼	_	_	O
+39	수	_	_	O
+40	있다고	_	_	O
+41	말했다.	_	_	O
+
+#anno-id:19751
+#text:지난달 논란 속에 의회를 통과한 개정 이혼법률은 남편으로부터 부당한 대우를 받았음을 법정에서 증명해야 했던 기존의 이혼요건을 대폭 완화, 남편으로부터 받은 지참금과 선물, 위자료를 포기하면 이혼이 가능하도록 규정하고 있다.
+0	지난달	_	_	B-Decision
+1	논란	_	_	I-Decision
+2	속에	_	_	I-Decision
+3	의회를	_	_	I-Decision
+4	통과한	_	_	I-Decision
+5	개정	_	_	I-Decision
+6	이혼법률은	_	_	I-Decision
+7	남편으로부터	_	_	I-Decision
+8	부당한	_	_	I-Decision
+9	대우를	_	_	I-Decision
+10	받았음을	_	_	I-Decision
+11	법정에서	_	_	I-Decision
+12	증명해야	_	_	I-Decision
+13	했던	_	_	I-Decision
+14	기존의	_	_	I-Decision
+15	이혼요건을	_	_	I-Decision
+16	대폭	_	_	I-Decision
+17	완화,	_	_	I-Decision
+18	남편으로부터	_	_	I-Decision
+19	받은	_	_	I-Decision
+20	지참금과	_	_	I-Decision
+21	선물,	_	_	I-Decision
+22	위자료를	_	_	I-Decision
+23	포기하면	_	_	I-Decision
+24	이혼이	_	_	B-Decision
+25	가능하도록	_	_	B-Decision
+26	규정하고	규정하다.v	Deciding	O
+27	있다.	_	_	O
+
+#anno-id:19753
+#text:북한은 미국 국무부가 최근 발표한 '연례인권보고서'에서 북한의 인권상황이 열악함을 지적한 것에 대해 반발하면서 미국은 세계 각국의 인권상황을 운운할 자격이 없다고 반박했다.
+0	북한은	_	_	O
+1	미국	_	_	O
+2	국무부가	_	_	O
+3	최근	_	_	O
+4	발표한	_	_	O
+5	'연례인권보고서'에서	_	_	O
+6	북한의	_	_	O
+7	인권상황이	_	_	O
+8	열악함을	_	_	O
+9	지적한	_	_	O
+10	것에	_	_	O
+11	대해	_	_	O
+12	반발하면서	_	_	O
+13	미국은	_	_	B-Speaker
+14	세계	_	_	B-Message
+15	각국의	_	_	I-Message
+16	인권상황을	_	_	I-Message
+17	운운할	_	_	I-Message
+18	자격이	_	_	I-Message
+19	없다고	_	_	I-Message
+20	반박했다.	반박하다.v	Affirm_or_deny	O
+
+#anno-id:19756
+#text:비핵화를 외치는 환경 운동 단체들의 목소리에 귀를 기울여야 한다.
+0	비핵화를	_	_	B-Message
+1	외치는	외치다.v	Statement	O
+2	환경	_	_	B-Speaker
+3	운동	_	_	I-Speaker
+4	단체들의	_	_	I-Speaker
+5	목소리에	_	_	I-Speaker
+6	귀를	_	_	O
+7	기울여야	_	_	O
+8	한다.	_	_	O
+
+#anno-id:19761
+#text:그가 영희와 싸움을 벌였다.
+0	그가	_	_	B-Agent
+1	영희와	_	_	B-Agent
+2	싸움을	_	_	B-Activity
+3	벌였다.	벌이다.v	Activity_start	O
+
+#anno-id:19762
+#text:적 일개 사단이 아군의 기습공격에 완전히 박살났다.
+0	적	_	_	O
+1	일개	_	_	O
+2	사단이	_	_	O
+3	아군의	_	_	O
+4	기습공격에	_	_	O
+5	완전히	_	_	O
+6	박살났다.	박살나다.v	Destroying	O
+
+#anno-id:19775
+#text:북한과 미국은 7 일부터 미국 뉴욕에서 김계관 북한 외무성 부상과 찰스 카트먼 미 한반도평화회담 담당특사가 수석대표로 참석한 가운데 고위급 회담을 위한 준비회담을 진행하고 있다.
+0	북한과	_	_	O
+1	미국은	_	_	O
+2	7	_	_	B-Time
+3	일부터	_	_	I-Time
+4	미국	_	_	B-Place
+5	뉴욕에서	_	_	I-Place
+6	김계관	_	_	B-Manner
+7	북한	_	_	I-Manner
+8	외무성	_	_	I-Manner
+9	부상과	_	_	I-Manner
+10	찰스	_	_	I-Manner
+11	카트먼	_	_	I-Manner
+12	미	_	_	I-Manner
+13	한반도평화회담	_	_	I-Manner
+14	담당특사가	_	_	I-Manner
+15	수석대표로	_	_	I-Manner
+16	참석한	_	_	I-Manner
+17	가운데	_	_	I-Manner
+18	고위급	_	_	B-Event
+19	회담을	_	_	I-Event
+20	위한	_	_	I-Event
+21	준비회담을	_	_	I-Event
+22	진행하고	진행하다.v	Process_continue	O
+23	있다.	_	_	O
+
+#anno-id:19778
+#text:세례는 한 사람 한 사람 문답해 보고 줄 만한 사람이면 주어야지요.
+0	세례는	_	_	B-Topic
+1	한	_	_	B-Addressee
+2	사람	_	_	I-Addressee
+3	한	_	_	I-Addressee
+4	사람	_	_	I-Addressee
+5	문답해	문답하다.v	Questioning	O
+6	보고	_	_	O
+7	줄	_	_	O
+8	만한	_	_	O
+9	사람이면	_	_	O
+10	주어야지요.	_	_	O
+
+#anno-id:19785
+#text:끓어오르는 정열이 그의 젊은 가슴을 채워 주었다.
+0	끓어오르는	_	_	B-Theme
+1	정열이	_	_	I-Theme
+2	그의	_	_	B-Goal
+3	젊은	_	_	I-Goal
+4	가슴을	_	_	I-Goal
+5	채워	채우다.v	Filling	O
+6	주었다.	_	_	O
+
+#anno-id:19790
+#text:선언문에 따르면 참여국가는 환경 사업을 추진하기 위해 자발적으로 기금을 출연하는 한편 2002 년까지 환경 협력을 통해 환경 문제를 실질적으로 풀 수 있는 종합 실천 계획의 성격을 띤 '지역 환경 프로그램'을 만들기로 했다.
+0	선언문에	_	_	O
+1	따르면	_	_	O
+2	참여국가는	_	_	O
+3	환경	_	_	O
+4	사업을	_	_	O
+5	추진하기	_	_	O
+6	위해	_	_	O
+7	자발적으로	_	_	B-Manner
+8	기금을	_	_	B-Entity
+9	출연하는	출연하다.v	Coming_to_be	O
+10	한편	_	_	O
+11	2002	_	_	O
+12	년까지	_	_	O
+13	환경	_	_	O
+14	협력을	_	_	O
+15	통해	_	_	O
+16	환경	_	_	O
+17	문제를	_	_	O
+18	실질적으로	_	_	O
+19	풀	_	_	O
+20	수	_	_	O
+21	있는	_	_	O
+22	종합	_	_	O
+23	실천	_	_	O
+24	계획의	_	_	O
+25	성격을	_	_	O
+26	띤	_	_	O
+27	'지역	_	_	O
+28	환경	_	_	O
+29	프로그램'을	_	_	O
+30	만들기로	_	_	O
+31	했다.	_	_	O
+
+#anno-id:19797
+#text:북한은 9 일 관영 중앙통신을 통해 인권연구회 성명을 발표하고 지난 70 년 일본항공(JAL) 점보 제트 여객기를 납치한 뒤 북한으로 도주한 일본인 적군파를 추방하지 않겠다고 밝혔다.
+0	북한은	_	_	O
+1	9	_	_	O
+2	일	_	_	O
+3	관영	_	_	O
+4	중앙통신을	_	_	O
+5	통해	_	_	O
+6	인권연구회	_	_	O
+7	성명을	_	_	O
+8	발표하고	_	_	O
+9	지난	_	_	B-Time
+10	70	_	_	I-Time
+11	년	_	_	I-Time
+12	일본항공(JAL)	_	_	B-Vehicle
+13	점보	_	_	I-Vehicle
+14	제트	_	_	I-Vehicle
+15	여객기를	_	_	I-Vehicle
+16	납치한	납치하다.v	Piracy	O
+17	뒤	_	_	B-Time
+18	북한으로	_	_	O
+19	도주한	_	_	O
+20	일본인	_	_	O
+21	적군파를	_	_	O
+22	추방하지	_	_	O
+23	않겠다고	_	_	O
+24	밝혔다.	_	_	O
+
+#anno-id:19798
+#text:피의자는 경찰이 자백을 받아내려고 잠도 재우지 않고 심하게 구타했다고 진정했다.
+0	피의자는	_	_	B-Content
+1	경찰이	_	_	I-Content
+2	자백을	_	_	I-Content
+3	받아내려고	_	_	I-Content
+4	잠도	_	_	I-Content
+5	재우지	_	_	I-Content
+6	않고	_	_	I-Content
+7	심하게	_	_	I-Content
+8	구타했다고	_	_	I-Content
+9	진정했다.	진정하다.v	Experiencer_focus	O
+
+#anno-id:19799
+#text:고구려는 남쪽으로 내려와 신라와 백제를 공격했다.
+0	고구려는	_	_	B-Theme
+1	남쪽으로	_	_	B-Direction
+2	내려와	내려오다.v	Traversing	O
+3	신라와	_	_	O
+4	백제를	_	_	O
+5	공격했다.	_	_	O
+
+#anno-id:19802
+#text:왕은 김 장군을 병마절도사로 임명하여 난을 평정하도록 했다.
+0	왕은	_	_	B-Selector
+1	김	_	_	B-Official
+2	장군을	_	_	I-Official
+3	병마절도사로	_	_	B-Role
+4	임명하여	임명하다.v	Appointing	O
+5	난을	_	_	O
+6	평정하도록	_	_	O
+7	했다.	_	_	O
+
+#anno-id:19812
+#text:관련 업체의 직원들이 서로 짜고 회사돈 수십억원을 유용하다가 경찰에 적발되었다.
+0	관련	_	_	B-Agent
+1	업체의	_	_	I-Agent
+2	직원들이	_	_	I-Agent
+3	서로	_	_	B-Manner
+4	짜고	짜다.v	Purpose	O
+5	회사돈	_	_	O
+6	수십억원을	_	_	O
+7	유용하다가	_	_	O
+8	경찰에	_	_	O
+9	적발되었다.	_	_	O
+
+#anno-id:19813
+#text:우리 화사는 주주들에게 배당금을 2억원을 지불했다.
+0	우리	_	_	B-Buyer
+1	화사는	_	_	I-Buyer
+2	주주들에게	_	_	B-Seller
+3	배당금을	_	_	B-Money
+4	2억원을	_	_	B-Money
+5	지불했다.	지불하다.v	Commerce_pay	O
+
+#anno-id:19816
+#text:폭도들은 학교에 세워진 동상을 산산조각냈다.
+0	폭도들은	_	_	O
+1	학교에	_	_	O
+2	세워진	_	_	O
+3	동상을	_	_	O
+4	산산조각냈다.	산산조각내다.v	Destroying	O
+
+#anno-id:19825
+#text:쓰레기를 내치고 들어오는 길에 사고를 당했다.
+0	쓰레기를	_	_	B-Proposal
+1	내치고	내치다.v	Respond_to_proposal	O
+2	들어오는	_	_	O
+3	길에	_	_	O
+4	사고를	_	_	O
+5	당했다.	_	_	O
+
+#anno-id:19828
+#text:치맛자락이 땅에 쓸려 지저분하다.
+0	치맛자락이	_	_	B-Searcher
+1	땅에	_	_	B-Ground
+2	쓸려	쓸리다.v	Scouring	O
+3	지저분하다.	_	_	O
+
+#anno-id:19831
+#text:그러나 그는 신장비가 손을 깨끗이 씻는 것과 같은 단순한 조치에 비해 많은 비용이 소요된다며 의사와 간호사 등 병원 종사자들이 환자와 접촉한 뒤 매번 세수하는 것이 질병예방에 훨씬 효과적이라고 설명했다.
+0	그러나	_	_	O
+1	그는	_	_	O
+2	신장비가	_	_	B-Agent
+3	손을	_	_	B-Body_part
+4	깨끗이	_	_	B-Manner
+5	씻는	씻다.v	Grooming	O
+6	것과	_	_	O
+7	같은	_	_	O
+8	단순한	_	_	O
+9	조치에	_	_	O
+10	비해	_	_	O
+11	많은	_	_	O
+12	비용이	_	_	O
+13	소요된다며	_	_	O
+14	의사와	_	_	O
+15	간호사	_	_	O
+16	등	_	_	O
+17	병원	_	_	O
+18	종사자들이	_	_	O
+19	환자와	_	_	O
+20	접촉한	_	_	O
+21	뒤	_	_	O
+22	매번	_	_	O
+23	세수하는	_	_	O
+24	것이	_	_	O
+25	질병예방에	_	_	O
+26	훨씬	_	_	O
+27	효과적이라고	_	_	O
+28	설명했다.	_	_	O
+
+#anno-id:19836
+#text:나는 이번 계획이 반드시 성공하리라고 확신한다.
+0	나는	_	_	B-Cognizer
+1	이번	_	_	B-Topic
+2	계획이	_	_	I-Topic
+3	반드시	_	_	B-Manner
+4	성공하리라고	_	_	O
+5	확신한다.	확신하다.v	Certainty	O
+
+#anno-id:19841
+#text:상대편 선수들은 관중들의 일방적인 응원에 기가 질려 실수를 연발했다.
+0	상대편	_	_	B-Experiencer
+1	선수들은	_	_	I-Experiencer
+2	관중들의	_	_	B-Content
+3	일방적인	_	_	I-Content
+4	응원에	_	_	I-Content
+5	기가	_	_	B-State
+6	질려	질리다.v	Experiencer_focus	O
+7	실수를	_	_	O
+8	연발했다.	_	_	O
+
+#anno-id:19842
+#text:그는 보고서의 끝에 그 프로젝트가 위험하기는하지만 성공할 가능성도 있다고 덧붙였다.
+0	그는	_	_	O
+1	보고서의	_	_	O
+2	끝에	_	_	O
+3	그	_	_	O
+4	프로젝트가	_	_	O
+5	위험하기는하지만	_	_	O
+6	성공할	_	_	B-Item
+7	가능성도	_	_	I-Item
+8	있다고	_	_	O
+9	덧붙였다.	덧붙이다.v	Attaching	O
+
+#anno-id:19844
+#text:철수는 친구에게 도움을 청하였다.
+0	철수는	_	_	B-Speaker
+1	친구에게	_	_	B-Addressee
+2	도움을	_	_	B-Message
+3	청하였다.	청하다.v	Request	O
+
+#anno-id:19853
+#text:올해는 예산보다 생활비가 과용되었다.
+0	올해는	_	_	O
+1	예산보다	_	_	O
+2	생활비가	_	_	O
+3	과용되었다.	과용되다.v	Frugality	O
+
+#anno-id:19856
+#text:백 외무상은 베이징 방문을 마친 후 이날 랴오닝성 (요녕) 다롄 (대련) 시로 떠났다.
+0	백	_	_	O
+1	외무상은	_	_	O
+2	베이징	_	_	B-Activity
+3	방문을	_	_	I-Activity
+4	마친	마치다.v	Activity_finish	O
+5	후	_	_	B-Time
+6	이날	_	_	O
+7	랴오닝성	_	_	O
+8	(요녕)	_	_	O
+9	다롄	_	_	O
+10	(대련)	_	_	O
+11	시로	_	_	O
+12	떠났다.	_	_	O
+
+#anno-id:19858
+#text:이 화분은 어디에 두면 좋을까?
+0	이	_	_	B-Theme
+1	화분은	_	_	I-Theme
+2	어디에	_	_	B-Place
+3	두면	두다.v	Placing	O
+4	좋을까?	_	_	O
+
+#anno-id:19861
+#text:자리에서 일어난 아낙네들이 깔고 앉았던 멍석을 걷었다.
+0	자리에서	_	_	B-Theme
+1	일어난	_	_	I-Theme
+2	아낙네들이	_	_	I-Theme
+3	깔고	_	_	I-Theme
+4	앉았던	_	_	I-Theme
+5	멍석을	_	_	I-Theme
+6	걷었다.	걷다.v	Removing	O
+
+#anno-id:19871
+#text:미-일 양국 정부는 7 일 군비관리, 군축, 핵불확산 및 검증에 관한 협력촉진을 위한 위원회를 설치하기로 기본 합의했다고 교도(공동) 통신이 7 일 보도했다.
+0	미-일	_	_	B-Speaker
+1	양국	_	_	I-Speaker
+2	정부는	_	_	I-Speaker
+3	7	_	_	O
+4	일	_	_	O
+5	군비관리,	_	_	O
+6	군축,	_	_	O
+7	핵불확산	_	_	O
+8	및	_	_	O
+9	검증에	_	_	O
+10	관한	_	_	O
+11	협력촉진을	_	_	O
+12	위한	_	_	O
+13	위원회를	_	_	O
+14	설치하기로	_	_	O
+15	기본	_	_	O
+16	합의했다고	합의하다.v	Agree_or_refuse_to_act	O
+17	교도(공동)	_	_	O
+18	통신이	_	_	O
+19	7	_	_	O
+20	일	_	_	O
+21	보도했다.	_	_	O
+
+#anno-id:19877
+#text:그들은 모처럼 모여서 지난 추억에 대해 오랫동안 환담하였다.
+0	그들은	_	_	O
+1	모처럼	_	_	O
+2	모여서	_	_	O
+3	지난	_	_	O
+4	추억에	_	_	O
+5	대해	_	_	O
+6	오랫동안	_	_	B-Time
+7	환담하였다.	환담하다.v	Chatting	O
+
+#anno-id:19880
+#text:현재 남아공에서 파견된 헬리콥터 5 대가 새벽부터 밤까지 수재민을 구조, 9 천 500 명 이상을 구해 냈다.
+0	현재	_	_	B-Agent
+1	남아공에서	_	_	I-Agent
+2	파견된	_	_	I-Agent
+3	헬리콥터	_	_	I-Agent
+4	5	_	_	I-Agent
+5	대가	_	_	I-Agent
+6	새벽부터	_	_	O
+7	밤까지	_	_	O
+8	수재민을	_	_	O
+9	구조,	_	_	O
+10	9	_	_	B-Patient
+11	천	_	_	I-Patient
+12	500	_	_	I-Patient
+13	명	_	_	I-Patient
+14	이상을	_	_	I-Patient
+15	구해	구하다.v	Rescuing	O
+16	냈다.	_	_	O
+
+#anno-id:19881
+#text:철수는 계속해서 입으로 한숨 소리를 내뿜고 있었다.
+0	철수는	_	_	B-Source
+1	계속해서	_	_	O
+2	입으로	_	_	B-Source
+3	한숨	_	_	B-Emission
+4	소리를	_	_	I-Emission
+5	내뿜고	내뿜다.v	Emanating	O
+6	있었다.	_	_	O
+
+#anno-id:19884
+#text:화석연료인 천연가스, 디젤, 휘발유 같은 탄화 수소 화합물을 연료 전지에 사용하려면 먼저 수소로 전환시켜야 하는데 이 과정에서 탄소가 누적돼 전지가 꽉 막혀 버리기 때문이다.
+0	화석연료인	_	_	B-Instrument
+1	천연가스,	_	_	I-Instrument
+2	디젤,	_	_	I-Instrument
+3	휘발유	_	_	I-Instrument
+4	같은	_	_	I-Instrument
+5	탄화	_	_	I-Instrument
+6	수소	_	_	I-Instrument
+7	화합물을	_	_	I-Instrument
+8	연료	_	_	B-Purpose
+9	전지에	_	_	I-Purpose
+10	사용하려면	사용하다.v	Using	O
+11	먼저	_	_	O
+12	수소로	_	_	O
+13	전환시켜야	_	_	O
+14	하는데	_	_	O
+15	이	_	_	O
+16	과정에서	_	_	O
+17	탄소가	_	_	O
+18	누적돼	_	_	O
+19	전지가	_	_	O
+20	꽉	_	_	O
+21	막혀	_	_	O
+22	버리기	_	_	O
+23	때문이다.	_	_	O
+
+#anno-id:19885
+#text:그 여자는 동생에게 남자의 마음을 사로잡는 방법을 훈수해 주곤 했다.
+0	그	_	_	B-Teacher
+1	여자는	_	_	I-Teacher
+2	동생에게	_	_	B-Student
+3	남자의	_	_	I-Student
+4	마음을	_	_	I-Student
+5	사로잡는	_	_	I-Student
+6	방법을	_	_	I-Student
+7	훈수해	훈수하다.v	Education_teaching	O
+8	주곤	_	_	O
+9	했다.	_	_	O
+
+#anno-id:19888
+#text:우리는 어머니에게 야단을 맞았다.
+0	우리는	_	_	B-Impactee
+1	어머니에게	_	_	B-Impactor
+2	야단을	_	_	B-Manner
+3	맞았다.	맞다.v	Impact	O
+
+#anno-id:19893
+#text:어머니의 폐렴은 일단 의사의 약으로 쾌유되는 것 같았다.
+0	어머니의	_	_	B-Patient
+1	폐렴은	_	_	I-Patient
+2	일단	_	_	O
+3	의사의	_	_	B-Medication
+4	약으로	_	_	I-Medication
+5	쾌유되는	쾌유되다.v	Cure	O
+6	것	_	_	O
+7	같았다.	_	_	O
+
+#anno-id:19895
+#text:9 일 미 상원 군사위원회에 출석한 리처드슨 장관은 미국내 휘발유 소비자가격이 올여름 갤런당 2 달러선에 이를 것으로 우려된다는 존 워너 위원장의 지적에 대해 "증산물량이 시장에 나온 직후 가격이 안정될 것으로 본다"면서 이같이 밝혔다.
+0	9	_	_	B-Time
+1	일	_	_	I-Time
+2	미	_	_	B-Event
+3	상원	_	_	I-Event
+4	군사위원회에	_	_	I-Event
+5	출석한	출석하다.v	Attending	O
+6	리처드슨	_	_	B-Agent
+7	장관은	_	_	I-Agent
+8	미국내	_	_	O
+9	휘발유	_	_	O
+10	소비자가격이	_	_	O
+11	올여름	_	_	O
+12	갤런당	_	_	O
+13	2	_	_	O
+14	달러선에	_	_	O
+15	이를	_	_	O
+16	것으로	_	_	O
+17	우려된다는	_	_	O
+18	존	_	_	O
+19	워너	_	_	O
+20	위원장의	_	_	O
+21	지적에	_	_	O
+22	대해	_	_	O
+23	"증산물량이	_	_	O
+24	시장에	_	_	O
+25	나온	_	_	O
+26	직후	_	_	O
+27	가격이	_	_	O
+28	안정될	_	_	O
+29	것으로	_	_	O
+30	본다"면서	_	_	O
+31	이같이	_	_	O
+32	밝혔다.	_	_	O
+
+#anno-id:19913
+#text:그들은 천지가 조만간 다시 개벽할 것이라고 주장한다.
+0	그들은	_	_	B-Agent
+1	천지가	_	_	B-Activity
+2	조만간	_	_	B-Time
+3	다시	_	_	B-Manner
+4	개벽할	개벽하다.v	Activity_start	O
+5	것이라고	_	_	O
+6	주장한다.	_	_	O
+
+#anno-id:19923
+#text:양측은 베를린회담에서 합의된 워싱턴 고위급회담의 세부준비사항을 협의하기 위해 지난 7 일 실무진간의 비공식 접촉을 시작으로 이날까지 5 차례에 걸친 공식회의를 가져 왔다.
+0	양측은	_	_	O
+1	베를린회담에서	_	_	B-Place
+2	합의된	합의하다.v	Agree_or_refuse_to_act	O
+3	워싱턴	_	_	B-Proposed_action
+4	고위급회담의	_	_	I-Proposed_action
+5	세부준비사항을	_	_	I-Proposed_action
+6	협의하기	_	_	O
+7	위해	_	_	O
+8	지난	_	_	O
+9	7	_	_	O
+10	일	_	_	O
+11	실무진간의	_	_	O
+12	비공식	_	_	O
+13	접촉을	_	_	O
+14	시작으로	_	_	O
+15	이날까지	_	_	O
+16	5	_	_	O
+17	차례에	_	_	O
+18	걸친	_	_	O
+19	공식회의를	_	_	O
+20	가져	_	_	O
+21	왔다.	_	_	O
+
+#anno-id:19929
+#text:서산에 지는 태양이 마지막 광채를 발하고 있다.
+0	서산에	_	_	B-Source
+1	지는	_	_	I-Source
+2	태양이	_	_	I-Source
+3	마지막	_	_	B-Emission
+4	광채를	_	_	I-Emission
+5	발하고	발하다.v	Emanating	O
+6	있다.	_	_	O
+
+#anno-id:19942
+#text:일부 분석가들은 장쩌민이 그를 정치국 위원으로 발탁하려 하는 등 지나치게 총애한다고 비판하고 있다.
+0	일부	_	_	B-Communicator
+1	분석가들은	_	_	I-Communicator
+2	장쩌민이	_	_	B-Evaluee
+3	그를	_	_	I-Evaluee
+4	정치국	_	_	I-Evaluee
+5	위원으로	_	_	I-Evaluee
+6	발탁하려	_	_	I-Evaluee
+7	하는	_	_	I-Evaluee
+8	등	_	_	I-Evaluee
+9	지나치게	_	_	I-Evaluee
+10	총애한다고	_	_	I-Evaluee
+11	비판하고	비판하다.v	Judgment_communication	O
+12	있다.	_	_	O
+
+#anno-id:19949
+#text:대회 조직위원들은 선언문이 법적 구속력을 갖지는 않지만 인구 팽창과 환경 파괴에 따른 효과적 물 공급 문제에 관해 생생한 정치적 동기를 부여하게 될 것으로 보고 있다.
+0	대회	_	_	B-Communicator
+1	조직위원들은	_	_	I-Communicator
+2	선언문이	_	_	B-Text
+3	법적	_	_	O
+4	구속력을	_	_	O
+5	갖지는	_	_	O
+6	않지만	_	_	O
+7	인구	_	_	B-Topic
+8	팽창과	_	_	I-Topic
+9	환경	_	_	I-Topic
+10	파괴에	_	_	I-Topic
+11	따른	_	_	I-Topic
+12	효과적	_	_	I-Topic
+13	물	_	_	I-Topic
+14	공급	_	_	I-Topic
+15	문제에	_	_	I-Topic
+16	관해	관하다.v	Topic	O
+17	생생한	_	_	O
+18	정치적	_	_	O
+19	동기를	_	_	O
+20	부여하게	_	_	O
+21	될	_	_	O
+22	것으로	_	_	O
+23	보고	_	_	O
+24	있다.	_	_	O
+
+#anno-id:19951
+#text:그의 10년의 업적이 무너졌다.
+0	그의	_	_	B-Theme
+1	10년의	_	_	I-Theme
+2	업적이	_	_	I-Theme
+3	무너졌다.	무너지다.v	Moving_in_place	O
+
+#anno-id:19956
+#text:지지후보를 떠나 러시아 국민 75 퍼센트가 푸틴이 차기 대통령이 될 것으로 확신하고 있으며 주가노프가 될 것이라고 생각하는 사람은 5 퍼센트에 그쳤다.
+0	지지후보를	_	_	B-Manner
+1	떠나	_	_	I-Manner
+2	러시아	_	_	B-Cognizer
+3	국민	_	_	I-Cognizer
+4	75	_	_	I-Cognizer
+5	퍼센트가	_	_	I-Cognizer
+6	푸틴이	_	_	B-Content
+7	차기	_	_	I-Content
+8	대통령이	_	_	I-Content
+9	될	_	_	I-Content
+10	것으로	_	_	I-Content
+11	확신하고	확신하다.v	Certainty	O
+12	있으며	_	_	O
+13	주가노프가	_	_	O
+14	될	_	_	O
+15	것이라고	_	_	O
+16	생각하는	_	_	O
+17	사람은	_	_	O
+18	5	_	_	O
+19	퍼센트에	_	_	O
+20	그쳤다.	_	_	O
+
+#anno-id:19958
+#text:이와 관련, 정부는 식량난 등으로 북한을 탈출하는 경제적 난민도 인간의 생존권 차원에서 보호받을 수 있다는 선에서 문제를 거론할 것으로 전해졌다.
+0	이와	_	_	B-Manner
+1	관련,	_	_	I-Manner
+2	정부는	_	_	I-Manner
+3	식량난	_	_	I-Manner
+4	등으로	_	_	I-Manner
+5	북한을	_	_	I-Manner
+6	탈출하는	_	_	I-Manner
+7	경제적	_	_	I-Manner
+8	난민도	_	_	I-Manner
+9	인간의	_	_	I-Manner
+10	생존권	_	_	I-Manner
+11	차원에서	_	_	I-Manner
+12	보호받을	_	_	I-Manner
+13	수	_	_	I-Manner
+14	있다는	_	_	I-Manner
+15	선에서	_	_	I-Manner
+16	문제를	_	_	B-Topic
+17	거론할	거론하다.v	Speak_on_topic	O
+18	것으로	_	_	O
+19	전해졌다.	_	_	O
+
+#anno-id:19960
+#text:메르카도 장관은 또 동남아시아 국가들이 역내 안정과 안보를 유지하기 위해 더 큰 책임을 떠맡아야 할 것으로 생각한다면서 역내 국가들은 마약거래와 해적행위 단속 등 공동의 과제를 안고 있다고 지적했다.
+0	메르카도	_	_	B-Cognizer
+1	장관은	_	_	B-Topic
+2	또	_	_	I-Topic
+3	동남아시아	_	_	I-Topic
+4	국가들이	_	_	I-Topic
+5	역내	_	_	I-Topic
+6	안정과	_	_	I-Topic
+7	안보를	_	_	I-Topic
+8	유지하기	_	_	I-Topic
+9	위해	_	_	I-Topic
+10	더	_	_	I-Topic
+11	큰	_	_	I-Topic
+12	책임을	_	_	I-Topic
+13	떠맡아야	_	_	I-Topic
+14	할	_	_	I-Topic
+15	것으로	_	_	I-Topic
+16	생각한다면서	생각하다.v	Cogitation	O
+17	역내	_	_	O
+18	국가들은	_	_	O
+19	마약거래와	_	_	O
+20	해적행위	_	_	O
+21	단속	_	_	O
+22	등	_	_	O
+23	공동의	_	_	O
+24	과제를	_	_	O
+25	안고	_	_	O
+26	있다고	_	_	O
+27	지적했다.	_	_	O
+
+#anno-id:19961
+#text:그러나 파키스탄은 카슈미르 국경분쟁 문제가 국제화되기를 바라는 등 클린턴 대통령의 남아시아 순방에 따른 파급효과를 내심 기대하고 있는 것으로 외교가는 평가하고 있다.
+0	그러나	_	_	O
+1	파키스탄은	_	_	O
+2	카슈미르	_	_	B-Event
+3	국경분쟁	_	_	I-Event
+4	문제가	_	_	I-Event
+5	국제화되기를	_	_	O
+6	바라는	바라다.v	Desiring	O
+7	등	_	_	O
+8	클린턴	_	_	O
+9	대통령의	_	_	O
+10	남아시아	_	_	O
+11	순방에	_	_	O
+12	따른	_	_	O
+13	파급효과를	_	_	O
+14	내심	_	_	O
+15	기대하고	_	_	O
+16	있는	_	_	O
+17	것으로	_	_	O
+18	외교가는	_	_	O
+19	평가하고	_	_	O
+20	있다.	_	_	O
+
+#anno-id:19962
+#text:이번 방문은 코언 장관 개인의 첫번째 베트남 방문이자 베트남 전쟁이 끝난 후 25 년만에 성사되는 미 국방장관의 방문으로 특히 베트남이 다음달 20 일 사이공 함락 25 주년 기념식을 준비를 하고 있는 가운데 이뤄지는 것이다.
+0	이번	_	_	O
+1	방문은	_	_	O
+2	코언	_	_	O
+3	장관	_	_	O
+4	개인의	_	_	O
+5	첫번째	_	_	O
+6	베트남	_	_	O
+7	방문이자	_	_	O
+8	베트남	_	_	B-Process
+9	전쟁이	_	_	I-Process
+10	끝난	끝나다.v	Process_end	O
+11	후	_	_	B-Time
+12	25	_	_	I-Time
+13	년만에	_	_	I-Time
+14	성사되는	_	_	O
+15	미	_	_	O
+16	국방장관의	_	_	O
+17	방문으로	_	_	O
+18	특히	_	_	O
+19	베트남이	_	_	O
+20	다음달	_	_	O
+21	20	_	_	O
+22	일	_	_	O
+23	사이공	_	_	O
+24	함락	_	_	O
+25	25	_	_	O
+26	주년	_	_	O
+27	기념식을	_	_	O
+28	준비를	_	_	O
+29	하고	_	_	O
+30	있는	_	_	O
+31	가운데	_	_	O
+32	이뤄지는	_	_	O
+33	것이다.	_	_	O
+
+#anno-id:19966
+#text:서구풍조가 조선에도 물밀듯이 밀려왔다.
+0	서구풍조가	_	_	B-Theme
+1	조선에도	_	_	B-Goal
+2	물밀듯이	_	_	O
+3	밀려왔다.	밀려오다.v	Filling	O
+
+#anno-id:19971
+#text:객관식보다는 주관식 답안지를 채점하는 일이 훨씬 힘들다.
+0	객관식보다는	_	_	O
+1	주관식	_	_	B-Phenomenon
+2	답안지를	_	_	I-Phenomenon
+3	채점하는	채점하다.v	Assessing	O
+4	일이	_	_	O
+5	훨씬	_	_	O
+6	힘들다.	_	_	O
+
+#anno-id:19972
+#text:한 표가 아쉬운 치열한 선거전에서 이들 전기는 표를 깎아 먹는 악재가 될 것으로 지적되고 있다.
+0	한	_	_	O
+1	표가	_	_	O
+2	아쉬운	_	_	O
+3	치열한	_	_	O
+4	선거전에서	_	_	O
+5	이들	_	_	O
+6	전기는	_	_	O
+7	표를	_	_	B-Whole
+8	깎아	깎다.v	Breaking_off	O
+9	먹는	_	_	O
+10	악재가	_	_	O
+11	될	_	_	O
+12	것으로	_	_	O
+13	지적되고	_	_	O
+14	있다.	_	_	O
+
+#anno-id:19993
+#text:프랑스는 핵발전소가 전체 발전의 75 퍼센트를 차지하고 있는데 국제원자력기구(IAEA)에 의하면 이는 세계에서 가장 높은 수준이다.
+0	프랑스는	_	_	B-Entity
+1	핵발전소가	_	_	B-Entity
+2	전체	_	_	B-Manner
+3	발전의	_	_	I-Manner
+4	75	_	_	I-Manner
+5	퍼센트를	_	_	I-Manner
+6	차지하고	차지하다.v	Capacity	O
+7	있는데	_	_	O
+8	국제원자력기구(IAEA)에	_	_	O
+9	의하면	_	_	O
+10	이는	_	_	O
+11	세계에서	_	_	O
+12	가장	_	_	O
+13	높은	_	_	O
+14	수준이다.	_	_	O
+
+#anno-id:19994
+#text:서부인들에 의해 발견된 황금은 훗날 이 지역 경제의 기반이 되는 것이다.
+0	서부인들에	_	_	B-Cognizer
+1	의해	_	_	O
+2	발견된	발견되다.v	Becoming_aware	O
+3	황금은	_	_	B-Phenomenon
+4	훗날	_	_	O
+5	이	_	_	O
+6	지역	_	_	O
+7	경제의	_	_	O
+8	기반이	_	_	O
+9	되는	_	_	O
+10	것이다.	_	_	O
+
+#anno-id:20001
+#text:벌써 여러 차례 전산망에 접속하려 했지만 실패했다.
+0	벌써	_	_	B-Time
+1	여러	_	_	B-Manner
+2	차례	_	_	I-Manner
+3	전산망에	_	_	B-Useful_location
+4	접속하려	접속하다.v	Having_or_lacking_access	O
+5	했지만	_	_	O
+6	실패했다.	_	_	O
+
+#anno-id:20006
+#text:이라크의 아메르 라시드 석유장관도 지난달 바그다드 당국이 유엔 제재를 무시하기 위해 걸프 해역으로 석유를 밀수하고 있음을 시사한 바 있다.
+0	이라크의	_	_	B-Agent
+1	아메르	_	_	I-Agent
+2	라시드	_	_	I-Agent
+3	석유장관도	_	_	I-Agent
+4	지난달	_	_	O
+5	바그다드	_	_	O
+6	당국이	_	_	O
+7	유엔	_	_	O
+8	제재를	_	_	O
+9	무시하기	_	_	O
+10	위해	_	_	O
+11	걸프	_	_	O
+12	해역으로	_	_	O
+13	석유를	_	_	O
+14	밀수하고	_	_	O
+15	있음을	_	_	O
+16	시사한	시사하다.v	Cause_to_perceive	O
+17	바	_	_	O
+18	있다.	_	_	O
+
+#anno-id:20015
+#text:방문이 바람에 쾅 하고 세게 닫혔다.
+0	방문이	_	_	B-Containing_object
+1	바람에	_	_	O
+2	쾅	_	_	O
+3	하고	_	_	O
+4	세게	_	_	B-Manner
+5	닫혔다.	닫히다.v	Closure	O
+
+#anno-id:20022
+#text:어서 하늘에 연을 띄우자.
+0	어서	_	_	O
+1	하늘에	_	_	B-Goal
+2	연을	_	_	B-Theme
+3	띄우자.	띄우다.v	Sending	O
+
+#anno-id:20031
+#text:이제까지는 반도체에 감광제를 바르고 자외선을 쪼여 알칼리 수용액으로 현상, 회로를 깎아내는 습식현상을 사용해 왔다.
+0	이제까지는	_	_	B-Instrument
+1	반도체에	_	_	I-Instrument
+2	감광제를	_	_	I-Instrument
+3	바르고	_	_	I-Instrument
+4	자외선을	_	_	I-Instrument
+5	쪼여	_	_	I-Instrument
+6	알칼리	_	_	I-Instrument
+7	수용액으로	_	_	I-Instrument
+8	현상,	_	_	I-Instrument
+9	회로를	_	_	B-Instrument
+10	깎아내는	_	_	I-Instrument
+11	습식현상을	_	_	I-Instrument
+12	사용해	사용하다.v	Using	O
+13	왔다.	_	_	O
+
+#anno-id:20040
+#text:바퀴가 굴러간다.
+0	바퀴가	_	_	B-Self_mover
+1	굴러간다.	굴러가다.v	Self_motion	O
+
+#anno-id:20043
+#text:또 종합유선 방송사업자의 경영 및 주식소유 제한비율을 대폭 완화했으며 중계유선방송사업자의 종합유선방송 전환조건을 명시했다.
+0	또	_	_	B-Phenomenon
+1	종합유선	_	_	I-Phenomenon
+2	방송사업자의	_	_	I-Phenomenon
+3	경영	_	_	I-Phenomenon
+4	및	_	_	I-Phenomenon
+5	주식소유	_	_	I-Phenomenon
+6	제한비율을	_	_	I-Phenomenon
+7	대폭	_	_	I-Phenomenon
+8	완화했으며	_	_	I-Phenomenon
+9	중계유선방송사업자의	_	_	B-Phenomenon
+10	종합유선방송	_	_	I-Phenomenon
+11	전환조건을	_	_	I-Phenomenon
+12	명시했다.	명시하다.v	Cause_to_perceive	O
+
+#anno-id:20049
+#text:제게 깨끗한 한 표를 던져 주십시오.
+0	제게	_	_	B-Goal
+1	깨끗한	_	_	B-Theme
+2	한	_	_	I-Theme
+3	표를	_	_	I-Theme
+4	던져	던지다.v	Cause_motion	O
+5	주십시오.	_	_	O
+
+#anno-id:20058
+#text:명호가 경아의 비밀을 친구들에게 옮기는 바람에, 모든 아이들이 그것을 알게 되었다.
+0	명호가	_	_	B-Donor
+1	경아의	_	_	B-Theme
+2	비밀을	_	_	I-Theme
+3	친구들에게	_	_	B-Recipient
+4	옮기는	옮기다.v	Transfer	O
+5	바람에,	_	_	O
+6	모든	_	_	O
+7	아이들이	_	_	O
+8	그것을	_	_	O
+9	알게	_	_	O
+10	되었다.	_	_	O
+
+#anno-id:20068
+#text:현숙이는 시험을 10분만에 해치우고 강의실을 나왔다.
+0	현숙이는	_	_	B-Agent
+1	시험을	_	_	B-Activity
+2	10분만에	_	_	B-Time
+3	해치우고	해치우다.v	Activity_finish	O
+4	강의실을	_	_	O
+5	나왔다.	_	_	O
+
+#anno-id:20071
+#text:노조로 인해 철도가 점거되었다.
+0	노조로	_	_	B-Invader
+1	인해	_	_	I-Invader
+2	철도가	_	_	B-Land
+3	점거되었다.	점거되다.v	Invading	O
+
+#anno-id:20073
+#text:30과 40을 곱하면 1200이다.
+0	30과	_	_	B-Terms
+1	40을	_	_	I-Terms
+2	곱하면	곱하다.v	Commutative_process	O
+3	1200이다.	_	_	O
+
+#anno-id:20087
+#text:미국은 제2차 세계대전에서 일본을 패망시켰다.
+0	미국은	_	_	B-Destroyer
+1	제2차	_	_	O
+2	세계대전에서	_	_	O
+3	일본을	_	_	B-Patient
+4	패망시켰다.	패망시키다.v	Destroying	O
+
+#anno-id:20090
+#text:처음 부른 값을 다 주면 바가지 쓰기 십상이다.
+0	처음	_	_	B-Time
+1	부른	부르다.v	Request	O
+2	값을	_	_	B-Message
+3	다	_	_	O
+4	주면	_	_	O
+5	바가지	_	_	O
+6	쓰기	_	_	O
+7	십상이다.	_	_	O
+
+#anno-id:20095
+#text:개천으로 뛰어든 몇 명의 소대원은 소용돌이치는 급류에 휘말려 눈 깜짝할 사이에 어딘가로 사라졌다.
+0	개천으로	_	_	O
+1	뛰어든	_	_	O
+2	몇	_	_	O
+3	명의	_	_	O
+4	소대원은	_	_	O
+5	소용돌이치는	소용돌이치다.v	Moving_in_place	O
+6	급류에	_	_	O
+7	휘말려	_	_	B-Manner
+8	눈	_	_	O
+9	깜짝할	_	_	O
+10	사이에	_	_	O
+11	어딘가로	_	_	O
+12	사라졌다.	_	_	O
+
+#anno-id:20098
+#text:고양이가 의자에 앉아 있다.
+0	고양이가	_	_	B-Agent
+1	의자에	_	_	B-Location
+2	앉아	앉다.v	Posture	O
+3	있다.	_	_	O
+
+#anno-id:20108
+#text:여야 4 당은 16 일에도 `신북풍'과 국부유출, 금, 관권선거 의혹, `배신론' 등 정치적 쟁점을 놓고 격렬한 감정싸움을 벌이면서 `아니면 말고'식 폭로전과 원색비방을 계속했으며 각 당과 후보자들의 선거법 위반 고소, 고발도 잇따랐다.
+0	여야	_	_	O
+1	4	_	_	O
+2	당은	_	_	O
+3	16	_	_	O
+4	일에도	_	_	O
+5	`신북풍'과	_	_	O
+6	국부유출,	_	_	O
+7	금,	_	_	O
+8	관권선거	_	_	O
+9	의혹,	_	_	O
+10	`배신론'	_	_	O
+11	등	_	_	O
+12	정치적	_	_	O
+13	쟁점을	_	_	O
+14	놓고	_	_	O
+15	격렬한	_	_	O
+16	감정싸움을	_	_	O
+17	벌이면서	_	_	O
+18	`아니면	_	_	O
+19	말고'식	_	_	B-Activity
+20	폭로전과	_	_	I-Activity
+21	원색비방을	_	_	I-Activity
+22	계속했으며	계속하다.v	Activity_ongoing	O
+23	각	_	_	O
+24	당과	_	_	O
+25	후보자들의	_	_	O
+26	선거법	_	_	O
+27	위반	_	_	O
+28	고소,	_	_	O
+29	고발도	_	_	O
+30	잇따랐다.	_	_	O
+
+#anno-id:20109
+#text:체세포를 이용해 복제된 소의 정자가 수정능력을 갖고 있는지가 확인된 것은 세계에서 이번이 처음이다.
+0	체세포를	_	_	B-Original
+1	이용해	_	_	O
+2	복제된	복제하다.v	Duplication	O
+3	소의	_	_	B-Copy
+4	정자가	_	_	I-Copy
+5	수정능력을	_	_	O
+6	갖고	_	_	O
+7	있는지가	_	_	O
+8	확인된	_	_	O
+9	것은	_	_	O
+10	세계에서	_	_	O
+11	이번이	_	_	O
+12	처음이다.	_	_	O
+
+#anno-id:20116
+#text:이번 국가 정책은 더 많은 주택 문제를 발생시키고 말 것이다.
+0	이번	_	_	B-Cause
+1	국가	_	_	I-Cause
+2	정책은	_	_	I-Cause
+3	더	_	_	B-Effect
+4	많은	_	_	I-Effect
+5	주택	_	_	I-Effect
+6	문제를	_	_	I-Effect
+7	발생시키고	발생시키다.v	Causation	O
+8	말	_	_	O
+9	것이다.	_	_	O
+
+#anno-id:20118
+#text:생강에는 마늘, 고추와 같은 살충력과 인체 생리에 이로운 성분들이 많이 함유돼 있음이 현대 과학에 의해 증명되었다.
+0	생강에는	_	_	O
+1	마늘,	_	_	O
+2	고추와	_	_	O
+3	같은	_	_	O
+4	살충력과	_	_	O
+5	인체	_	_	O
+6	생리에	_	_	O
+7	이로운	_	_	O
+8	성분들이	_	_	O
+9	많이	_	_	O
+10	함유돼	_	_	O
+11	있음이	_	_	O
+12	현대	_	_	B-Support
+13	과학에	_	_	I-Support
+14	의해	_	_	O
+15	증명되었다.	증명되다.v	Evidence	O
+
+#anno-id:20120
+#text:또 북한의 철도는 전체 화물 수송의 88 퍼센트, 여객수송의 60 퍼센트를 담당하고 대부분 200KM 이상의 장거리 수송에 이용될 뿐 아니라 중국, 러시아를 연결하는 4 개 국제 철도 노선망을 갖추고 있다.
+0	또	_	_	O
+1	북한의	_	_	B-Instrument
+2	철도는	_	_	I-Instrument
+3	전체	_	_	O
+4	화물	_	_	O
+5	수송의	_	_	O
+6	88	_	_	O
+7	퍼센트,	_	_	O
+8	여객수송의	_	_	O
+9	60	_	_	O
+10	퍼센트를	_	_	O
+11	담당하고	_	_	O
+12	대부분	_	_	B-Manner
+13	200KM	_	_	B-Purpose
+14	이상의	_	_	I-Purpose
+15	장거리	_	_	I-Purpose
+16	수송에	_	_	I-Purpose
+17	이용될	이용하다.v	Using	O
+18	뿐	_	_	O
+19	아니라	_	_	O
+20	중국,	_	_	O
+21	러시아를	_	_	O
+22	연결하는	_	_	O
+23	4	_	_	O
+24	개	_	_	O
+25	국제	_	_	O
+26	철도	_	_	O
+27	노선망을	_	_	O
+28	갖추고	_	_	O
+29	있다.	_	_	O
+
+#anno-id:20128
+#text:그 연구소는 선발 대상에서 그 작품은 제외하였다.
+0	그	_	_	O
+1	연구소는	_	_	O
+2	선발	_	_	B-Total
+3	대상에서	_	_	I-Total
+4	그	_	_	B-Part
+5	작품은	_	_	I-Part
+6	제외하였다.	제외하다.v	Inclusion	O
+
+#anno-id:20134
+#text:테러리스트들이 비행기에서 소형폭발물을 터뜨렸다.
+0	테러리스트들이	_	_	B-Cause
+1	비행기에서	_	_	B-Place
+2	소형폭발물을	_	_	B-Effect
+3	터뜨렸다.	터뜨리다.v	Cause_to_start	O
+
+#anno-id:20135
+#text:그는 상대 선수를 구석에 몰았다.
+0	그는	_	_	B-Agent
+1	상대	_	_	B-Theme
+2	선수를	_	_	I-Theme
+3	구석에	_	_	B-Goal
+4	몰았다.	몰다.v	Cause_motion	O
+

@@ -632,18 +632,18 @@
 	25	역설도	_	_	O	O	1		
 	26	없다.	_	_	O	O	1		
 									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
-									
+33	#anno-id:641								
+	#text:학생들은 그들의 학업 잠재력이 허락하는 대로 교육 사다리를 올라가야 한다.								
+	0	학생들은	_	_	O		0	B-Student	
+	1	그들의	_	_	O	O	1		
+	2	학업	_	_	O	O	1		
+	3	잠재력이	_	_	O	O	1		
+	4	허락하는	_	_	O	O	1		
+	5	대로	_	_	O	O	1		
+	6	교육	교육.n	Education_teaching	O	O	1		
+	7	사다리를	_	_	O	O	1		
+	8	올라가야	_	_	O	O	1		
+	9	한다.	_	_	O	O	1		
 									
 34	#anno-id:650								
 	#text:그들은 교육적인 경험보다는 모호한 심리학적 그리고 사회학적 이론들에 바탕을 두고 있다.								
@@ -915,7 +915,7 @@
 	8	재임	_	_	I-Entity	I-Entity	1	I-Entity	
 	9	기간의	_	_	I-Entity	I-Entity	1	I-Entity	
 	10	멤버들은	_	_	I-Entity	I-Entity	1	I-Entity	
-	11	영향을	_	_	B-Final_state	B-Final_quality	1	"no ""final_state"""	B-Final_quality
+	11	영향을	_	_	B-Final_state	B-Final_quality	1	no "final_state"	B-Final_quality
 	12	받지	_	_	I-Final_state	I-Final_quality	1		I-Final_quality
 	13	않게	_	_	I-Final_state	I-Final_quality	1		I-Final_quality
 	14	되었다.	되다.a	Becoming	O	O	1		

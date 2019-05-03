@@ -15,7 +15,6 @@ training_sub2 sent 33 no agreement
 @author Peace Han
 """
 import os
-# TODO: calculate the scores for only non-Os
 path = 'data/corrected/'
 listing = os.listdir(path)
 sent_count = 0            # number of sentences
